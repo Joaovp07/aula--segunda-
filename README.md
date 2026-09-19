@@ -53,6 +53,8 @@ Fonte: LinkedIn Jobs, consulta realizada em setembro de 2026.
 Hard Skills: Conhecimento básico em C#, Java, Go ou Rust; boas práticas de desenvolvimento; diferenciais em Cloud (Azure) e Front-end (React)
 Soft Skills: Espírito empreendedor, mente aberta para aprender, foco no cliente, adaptabilidade a ambiente dinâmico
 
+É uma vaga de entrada clássica: o peso maior está nas soft skills e na atitude, já que o conhecimento técnico exigido é básico (uma linguagem qualquer) e o resto é tratado como diferencial. A empresa está claramente priorizando potencial e fit cultural sobre experiência consolidada, o que a torna uma porta de entrada acessível para quem está começando na área.
+
  * Google — Software Engineer, Early Career, em São Paulo/Belo Horizonte.
    
 Hard Skills: Graduação (ou experiência equivalente) em Ciência da Computação; ao menos 1 ano com Python, C, C++, Java ou JavaScript; estruturas de dados e algoritmos
@@ -63,7 +65,7 @@ Soft Skills: Versatilidade para atuar em projetos e times diferentes, iniciativa
 Hard Skills: ReactJS, TypeScript, gerenciamento de estado (Context API/Redux/Recoil), microfrontends e Webpack, consumo de APIs (Axios/GraphQL), princípios SOLID, metodologias ágeis
 Soft Skills: Capacidade de aprender rapidamente novas tecnologias, relacionamento próximo com áreas de negócio, protagonismo na construção de soluções
 
-* UOL EdTech — Engenheiro de Software Jr., em São Paulo.
+* UOL EdTech — Engenheiro de Software Jr, em São Paulo.
 
 Hard Skills: Node.js, React.js, JavaScript, integração de APIs REST, fundamentos de banco de dados
 Soft Skills: Paixão por educação e tecnologia, capacidade de unir múltiplas competências, trabalho colaborativo em times multidisciplinares
