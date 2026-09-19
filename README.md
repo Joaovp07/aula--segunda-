@@ -1,26 +1,31 @@
 # Análise Estratégica e Tendências do Mercado de Engenharia de Software
 
 **Integrantes (em ordem lexicográfica):**
-1. [Nome do(a) Aluno(a) A]
+1. Nicollas Guedes
 2. Caio Dal Pizzol Fonseca
 3. João Vitor Pires Ribeiro
 4. Bruno Rodrigues
-
+5. Denner de Paula Coutinho
 ---
 
 ## 1. Introdução e Análise de Mercado
 
 ### 1.1 Análise de Mercado
-**Panorama Atualizado e Tendências**
-A Engenharia de Software é o núcleo da transformação digital, mantendo-se como uma das áreas mais resilientes e demandadas da tecnologia. O mercado exige atualmente sistemas altamente escaláveis, seguros e preparados para integração com inteligência artificial. O desenvolvimento orientado à nuvem (*Cloud-Native*), a transição de monólitos para arquiteturas de microsserviços e a automação por meio de práticas de DevOps são as principais tendências técnicas. O formato de trabalho remoto e híbrido segue consolidado, permitindo que profissionais brasileiros concorram a vagas globais.
+
+**Panorama Atualizado e Tendências (2026)**
+A Engenharia de Software no Brasil vive um momento de amadurecimento técnico e expansão estratégica. Diferente do crescimento desordenado de anos anteriores, o mercado atual busca eficiência e governança. O setor se mantém como um dos mais resilientes do país, e pesquisas recentes indicam que quase 70% das empresas brasileiras pretendem aumentar ou manter o volume de contratações em tecnologia ao longo do ano. Entre as tendências técnicas que ditam o rumo da engenharia de software, destacam-se:
+
+*   **Inteligência Artificial Integrada e Assistida:** A IA não é mais apenas um nicho isolado, mas uma ferramenta embarcada no ciclo de vida do software. O uso de IA generativa (como assistentes avançados de código e *Prompt Engineering*) tornou-se padrão para acelerar o desenvolvimento. Além disso, há uma corrida para integrar APIs de IA em aplicações corporativas tradicionais.
+*   **Arquiteturas Cloud-Native e Microsserviços:** A quebra de sistemas monolíticos em microsserviços distribuídos já é o padrão da indústria. A exigência é por aplicações que nascem na nuvem (AWS, Azure, Google Cloud), focadas em alta disponibilidade, escalabilidade sob demanda e observabilidade.
+*   **DevSecOps e Privacidade (Privacy by Design):** Impulsionadas pela consolidação da LGPD no Brasil e pela sofisticação das ameaças cibernéticas, as práticas de segurança deixaram de ser responsabilidade de uma equipe isolada. O mercado exige que o desenvolvedor aplique segurança desde a primeira linha de código, mitigando vulnerabilidades em tempo de desenvolvimento.
+*   **A consolidação do modelo Remoto/Híbrido:** O mercado brasileiro estabeleceu o trabalho remoto e híbrido não como um benefício temporário, mas como um modelo operacional definitivo. Isso permite que profissionais baseados no Brasil, especialmente nos grandes polos de tecnologia como São Paulo, prestem serviços diretamente para empresas globais.
 
 **Levantamento de Vagas e Demanda**
-Há uma escassez histórica de profissionais de níveis pleno e sênior. A maior demanda de vagas concentra-se em desenvolvedores *Full-Stack*, engenheiros de *Back-end* (com forte apelo para Java, C#, Node.js, Python e Go) e especialistas em arquitetura de sistemas. Plataformas como LinkedIn e portais específicos de TI apresentam milhares de vagas abertas continuamente, impulsionadas pelo setor financeiro (fintechs), e-commerces, healthtechs e empresas tradicionais modernizando seu legado tecnológico.
+A dinâmica de contratação do mercado de software apresenta um descompasso estrutural: existe uma escassez crítica e histórica de profissionais de níveis Pleno, Sênior e Especialista, enquanto a base da pirâmide (posições de Estágio e Júnior) enfrenta altíssima concorrência. Para as posições de entrada, o mercado migrou para a **seleção baseada em competências práticas**, onde o diploma universitário divide o peso com o portfólio de projetos reais, exigindo repositórios organizados no GitHub, documentação clara e versionamento impecável (Git).
 
-**Expectativa Salarial (Média Brasileira atual)**
-* **Júnior:** R$ 4.000 a R$ 6.500
-* **Pleno:** R$ 7.500 a R$ 12.000
-* **Sênior e Especialista:** R$ 13.000 a R$ 22.000+ *(Profissionais alocados remotamente para o exterior frequentemente recebem remunerações em Dólar ou Euro).*
+*   **Stacks e Especialidades em Alta:** O volume massivo de vagas concentra-se no desenvolvimento Web e de APIs. No Front-end, o foco está na criação de interfaces ricas, escaláveis e fluidas, com domínio absoluto do ecossistema JavaScript (especialmente bibliotecas e frameworks reativos como React e Next.js). No Back-end, há uma busca incessante por desenvolvedores capazes de lidar com alto volume de requisições e persistência de dados (SQL e NoSQL), com linguagens como Python (altamente alavancada pela sua sinergia com dados e IA), Node.js, Java e C#.
+*   **Canais e Novos Modelos de Ingresso:** Para captar oportunidades, o LinkedIn continua sendo a principal vitrine corporativa, enquanto portais tradicionais de recrutamento, como a Catho, seguem movimentando o mercado CLT no Brasil para vagas de entrada e programas de aprendizagem. 
+*   **O Papel das Plataformas de Freelance:** Uma tendência emergente para desenvolvedores Júnior é a utilização de plataformas de *freelance* (como Workana e 99Freelas) como verdadeiros laboratórios de mercado. Atuar nessas plataformas não apenas gera renda complementar, mas permite que o profissional iniciante valide suas *Hard Skills* construindo soluções para clientes reais, negociando escopos (*Soft Skills*) e enriquecendo seu portfólio prático, o que reduz substancialmente o tempo de espera pela primeira oportunidade formal.
 
 ### 1.2 Mapeamento de Vagas
 
@@ -51,17 +56,45 @@ Outro ponto observado é a variedade dos modelos de trabalho. Foram encontradas 
 
 ### 1.3 Mapeamento de Competências
 
-**Hard Skills (Técnicas)**
-* Proficiência em linguagens de programação e seus respectivos frameworks (ex: Spring Boot para Java, React/Angular para JavaScript, .NET para C#, Node.js/Python para backend).
-* Domínio de modelagem de dados em bancos relacionais (SQL) e não-relacionais (NoSQL).
-* Experiência com controle de versionamento descentralizado (Git/GitHub).
-* Conhecimento prático em testes automatizados e esteiras de CI/CD.
-* Compreensão de padrões de projeto (*Design Patterns*) e princípios SOLID, essenciais para construção de arquiteturas sólidas (como APIs REST seguras).
+ * XP Inc. — Engenheiro(a) de Software, nível Assistente/Júnior, em São Paulo.
 
-**Soft Skills (Comportamentais)**
-* **Resolução de Problemas:** Capacidade analítica para debugar sistemas complexos e propor soluções escaláveis e performáticas.
-* **Comunicação Assertiva:** Habilidade de traduzir regras de negócio em especificações técnicas e negociar prazos com *Stakeholders*.
-* **Trabalho em Equipe:** Vivência e colaboração ativa em metodologias ágeis (Scrum/Kanban), participando de *Code Reviews* de forma construtiva.
+Hard Skills: Conhecimento básico em C#, Java, Go ou Rust; boas práticas de desenvolvimento; diferenciais em Cloud (Azure) e Front-end (React)
+Soft Skills: Espírito empreendedor, mente aberta para aprender, foco no cliente, adaptabilidade a ambiente dinâmico
+
+ * Google — Software Engineer, Early Career, em São Paulo/Belo Horizonte.
+   
+Hard Skills: Graduação (ou experiência equivalente) em Ciência da Computação; ao menos 1 ano com Python, C, C++, Java ou JavaScript; estruturas de dados e algoritmos
+Soft Skills: Versatilidade para atuar em projetos e times diferentes, iniciativa/liderança, comunicação em inglês (currículo exigido em inglês), disposição para aprender áreas novas (IA, sistemas distribuídos, etc.)
+
+* BTG Pactual — Engenheiro(a) de Software Frontend, em São Paulo.
+
+Hard Skills: ReactJS, TypeScript, gerenciamento de estado (Context API/Redux/Recoil), microfrontends e Webpack, consumo de APIs (Axios/GraphQL), princípios SOLID, metodologias ágeis
+Soft Skills: Capacidade de aprender rapidamente novas tecnologias, relacionamento próximo com áreas de negócio, protagonismo na construção de soluções
+
+* UOL EdTech — Engenheiro de Software Jr., em São Paulo.
+
+Hard Skills: Node.js, React.js, JavaScript, integração de APIs REST, fundamentos de banco de dados
+Soft Skills: Paixão por educação e tecnologia, capacidade de unir múltiplas competências, trabalho colaborativo em times multidisciplinares
+
+* PagBank — Engenheiro de Software Pl. (Front-end)
+
+Hard Skills: React/Angular, TypeScript, HTML5/CSS3/SCSS, testes automatizados, Cloud AWS, design systems e micro-frontends
+Soft Skills: Colaboração com times multidisciplinares (produto, design, backend), atenção à qualidade e performance, comunicação técnica clara
+
+* Mercado Livre — Engenheiro de Software, em Osasco.
+
+Hard Skills: Java/Kotlin, arquitetura de microsserviços, APIs REST, Cloud (AWS/GCP), Kubernetes, bancos de dados
+Soft Skills: Pensamento analítico, capacidade de inovação, boa comunicação, colaboração em equipes, orientação a resultados
+
+* BairesDev — Engenheiro de Software .NET, com possibilidade de trabalho remoto.
+
+Hard Skills: C#, .NET Core/ASP.NET, SQL Server, integração de APIs e serviços de terceiros, padrões de design (SOLID/Clean Code)
+Soft Skills: Inglês avançado (times internacionais), autonomia e proatividade (trabalho 100% remoto), comprometimento com prazos e qualidade
+
+* Serasa Experian — Senior Software Engineer - Full Stack, em São Carlos.
+
+Hard Skills: APIs RESTful, arquiteturas orientadas a eventos, AWS (API Gateway, Lambda, ECS/Fargate, S3, Aurora, CloudWatch), design de sistemas escaláveis e seguros
+Soft Skills: Inglês avançado (interação diária com times globais), mentoria de outros engenheiros, colaboração entre produto/arquitetura/engenharia, senso de excelência operacional
 
 ---
 
@@ -72,11 +105,17 @@ Outro ponto observado é a variedade dos modelos de trabalho. Foram encontradas 
 
 ## 2.1 Análise do GitHub
 
-* **01. Identificação do Perfil:** [Caio Fonseca.]
+* **01. Identificação do Perfil:[Caio Fonseca.]
 
-* **02. Repositórios Públicos:** [Apenas esse repositório.]
+* **02. Repositórios Públicos: [Apenas esse repositório.]
 
-* **03. Evolução de Seguidores:** [19 seguidores, nem todos que estao na turma seguiram!.]
+* **03. Evolução de Seguidores: [19 seguidores, nem todos que estao na turma seguiram!.]
+
+- 04. Identificação do Perfil: [Nicollas Guedes.]
+
+- 05. Repositórios Públicos: [Apenas esse repositório.]
+
+- 06. Evolução de Seguidores:** [6 seguidores, nem todos que estao na turma seguiram!.]
 
 ## 2.2 Análise do LinkedIn
 
@@ -143,14 +182,30 @@ Outro ponto observado é a variedade dos modelos de trabalho. Foram encontradas 
 
 ### 3.4 Plano de Ação
 
-O plano de ação tem como objetivo reduzir os principais gaps identificados e alinhar as competências profissionais às exigências do mercado de Engenharia de Software.
+O plano de ação considera a rotina dos integrantes, que conciliam trabalho, faculdade, longos deslocamentos e vida pessoal. Por isso, as atividades serão concentradas principalmente nas noites de quarta e sexta-feira, evitando sobrecarga nos dias de aula. Todo o aprendizado complementar será realizado por meio de **recursos gratuitos disponíveis na internet e no YouTube**.
 
-- 0–3 meses: Estudar Java por pelo menos 5 horas semanais e desenvolver **2 projetos**, aplicando orientação a objetos, Git e GitHub.
-- 3–6 meses: Aprender SQL e Spring Boot, desenvolvendo **1 API REST completa** integrada a um banco de dados.
-- 6–9 meses: Implementar **testes automatizados** em pelo menos 2 projetos e criar **1 pipeline de CI/CD** utilizando GitHub Actions.
-- 6–12 meses: Publicar **4 projetos no GitHub**, todos com README, documentação e instruções de execução.
-- 6–12 meses: Participar de pelo menos **1 projeto colaborativo ou Open Source**, realizando contribuições por meio de pull requests.
-- 1–2 anos: Buscar uma oportunidade de estágio ou posição Júnior e adquirir experiência prática com desenvolvimento de software em equipe.
-- 2–3 anos: Aprofundar conhecimentos em **Cloud, microsserviços, arquitetura de software e segurança**, realizando pelo menos um curso ou certificação relacionada a essas áreas.
+- Segunda, terça e quinta-feira: Priorizar as aulas da faculdade e os conteúdos de Design Profissional, Banco de Dados e Algoritmos. Como o deslocamento é longo e a chegada em casa ocorre tarde, não haverá obrigação de estudos adicionais nesses dias.
+- Quarta-feira: Reservar aproximadamente 1 hora à noite para estudos de programação, utilizando cursos gratuitos no YouTube, com foco inicialmente em Java e lógica de programação.
+- Sexta-feira: Reservar aproximadamente 1 hora à noite para prática e desenvolvimento dos projetos, utilizando GitHub para versionamento e materiais gratuitos encontrados na internet para consulta e resolução de dúvidas.
+- Sábado: Participar da aula de Front End e, após a aula, priorizar descanso, família, amigos e hobbies. Os conteúdos de HTML e CSS poderão ser revisados durante a própria atividade da disciplina.
+- Domingo: Manter como principal dia de descanso, realizando estudos somente quando houver necessidade acadêmica ou alguma etapa importante dos projetos.
 
-O progresso será acompanhado por meio das metas concluídas, projetos publicados, contribuições realizadas, cursos e certificações obtidos e experiências profissionais adquiridas.
+**Ferramentas e fontes de aprendizado:
+
+- Java: cursos gratuitos no YouTube e documentação oficial da linguagem.
+- SQL e Banco de Dados: conteúdos gratuitos no YouTube, documentação e materiais disponíveis na internet.
+- Git e GitHub: tutoriais gratuitos no YouTube e documentação oficial do GitHub.
+- Spring Boot: cursos e projetos práticos gratuitos no YouTube e documentação oficial do Spring.
+- HTML e CSS: conteúdos da própria faculdade, complementados por tutoriais gratuitos no YouTube.
+- Testes automatizados e CI/CD: materiais gratuitos no YouTube e documentações oficiais das ferramentas utilizadas.
+
+- Metas para os próximos 6 a 12 meses:
+
+- Desenvolver 2 projetos práticos utilizando os conhecimentos adquiridos.
+- Manter um GitHub organizado, com README e documentação básica dos projetos.
+- Fortalecer Java, SQL, Git, lógica de programação, HTML e CSS.
+- Iniciar estudos de Spring Boot, testes automatizados e CI/CD após consolidar os fundamentos.
+- Participar de pelo menos 1 projeto colaborativo.
+- Avaliar o progresso a cada 3 meses, ajustando as metas de acordo com a rotina de faculdade e trabalho.
+
+O plano busca garantir uma evolução contínua e sustentável, utilizando recursos 100% gratuitos, sem comprometer o desempenho acadêmico, o trabalho e os momentos de lazer dos integrantes.
