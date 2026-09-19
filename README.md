@@ -4,7 +4,7 @@
 1. [Nome do(a) Aluno(a) A]
 2. [Nome do(a) Aluno(a) B]
 3. João Vitor Pires Ribeiro
-4. [Nome do(a) Aluno(a) D]
+4. Bruno Rodrigues
 
 ---
 
@@ -84,4 +84,13 @@ Há uma escassez histórica de profissionais de níveis pleno e sênior. A maior
 [Lacunas entre a situação atual dos alunos e as exigências do mercado para as vagas alvo.]
 
 ### 3.4 Plano de Ação
-[Um plano de ação específico, mensurável e realista para eliminar os gaps e focar no alinhamento da área. Ex: tirar certificação X em 6 meses, contribuir em projetos Open Source até dezembro, etc.]
+### 3.4 Plano de Ação
+
+O plano de ação tem como objetivo reduzir os principais gaps identificados e aproximar as competências dos profissionais às exigências do mercado de Engenharia de Software.
+
+* - 0–6 meses: Aprofundar conhecimentos em Java, SQL, Git/GitHub e boas práticas de programação, desenvolvendo pelo menos dois projetos práticos.
+* - 6–12 meses: Aprender frameworks como Spring Boot, além de testes automatizados e conceitos básicos de CI/CD, aplicando esses conhecimentos em projetos.
+* - 1–2 anos: Buscar estágio ou oportunidade profissional na área, participar de projetos colaborativos e realizar contribuições em projetos Open Source.
+  - 2–3 anos: Desenvolver conhecimentos mais avançados em arquitetura de software, microsserviços, Cloud Computing, segurança e escalabilidade.
+
+O progresso será acompanhado por meio dos projetos desenvolvidos, cursos e certificações concluídos e experiências profissionais adquiridas, permitindo uma evolução contínua e alinhada às necessidades do mercado.
