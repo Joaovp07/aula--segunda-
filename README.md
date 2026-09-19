@@ -103,6 +103,12 @@ Soft Skills: Inglês avançado (interação diária com times globais), mentoria
 
 * **03. Evolução de Seguidores:** [19 seguidores, nem todos que estao na turma seguiram!.]
 
+* * **04. Identificação do Perfil:** [Nicollas Guedes.]
+
+* **05. Repositórios Públicos:** [Apenas esse repositório.]
+
+* **06. Evolução de Seguidores:** [6 seguidores, nem todos que estao na turma seguiram!.]
+
 ## 2.2 Análise do LinkedIn
 
 * **Cargo Alvo e Stack:** O objetivo profissional é atuar como Desenvolvedor Front-end Júnior. A principal stack é formada por React, Next.js, TypeScript e JavaScript, além de HTML, CSS, Git e integração com APIs. Também possui conhecimentos básicos em Python e MySQL e conhecimentos introdutórios em Azure e AWS.
