@@ -84,13 +84,15 @@ Há uma escassez histórica de profissionais de níveis pleno e sênior. A maior
 [Lacunas entre a situação atual dos alunos e as exigências do mercado para as vagas alvo.]
 
 ### 3.4 Plano de Ação
-### 3.4 Plano de Ação
 
-O plano de ação tem como objetivo reduzir os principais gaps identificados e aproximar as competências dos profissionais às exigências do mercado de Engenharia de Software.
+O plano de ação tem como objetivo reduzir os principais gaps identificados e alinhar as competências profissionais às exigências do mercado de Engenharia de Software.
 
-* - 0–6 meses: Aprofundar conhecimentos em Java, SQL, Git/GitHub e boas práticas de programação, desenvolvendo pelo menos dois projetos práticos.
-* - 6–12 meses: Aprender frameworks como Spring Boot, além de testes automatizados e conceitos básicos de CI/CD, aplicando esses conhecimentos em projetos.
-* - 1–2 anos: Buscar estágio ou oportunidade profissional na área, participar de projetos colaborativos e realizar contribuições em projetos Open Source.
-  - 2–3 anos: Desenvolver conhecimentos mais avançados em arquitetura de software, microsserviços, Cloud Computing, segurança e escalabilidade.
+- 0–3 meses: Estudar Java por pelo menos 5 horas semanais e desenvolver **2 projetos**, aplicando orientação a objetos, Git e GitHub.
+- 3–6 meses: Aprender SQL e Spring Boot, desenvolvendo **1 API REST completa** integrada a um banco de dados.
+- 6–9 meses: Implementar **testes automatizados** em pelo menos 2 projetos e criar **1 pipeline de CI/CD** utilizando GitHub Actions.
+- 6–12 meses: Publicar **4 projetos no GitHub**, todos com README, documentação e instruções de execução.
+- 6–12 meses: Participar de pelo menos **1 projeto colaborativo ou Open Source**, realizando contribuições por meio de pull requests.
+- 1–2 anos: Buscar uma oportunidade de estágio ou posição Júnior e adquirir experiência prática com desenvolvimento de software em equipe.
+- 2–3 anos: Aprofundar conhecimentos em **Cloud, microsserviços, arquitetura de software e segurança**, realizando pelo menos um curso ou certificação relacionada a essas áreas.
 
-O progresso será acompanhado por meio dos projetos desenvolvidos, cursos e certificações concluídos e experiências profissionais adquiridas, permitindo uma evolução contínua e alinhada às necessidades do mercado.
+O progresso será acompanhado por meio das metas concluídas, projetos publicados, contribuições realizadas, cursos e certificações obtidos e experiências profissionais adquiridas.
