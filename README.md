@@ -1,7 +1,7 @@
 # Análise Estratégica e Tendências do Mercado de Engenharia de Software
 
 **Integrantes (em ordem lexicográfica):**
-1. [Nome do(a) Aluno(a) A]
+1. Nicollas Guedes
 2. Caio Dal Pizzol Fonseca
 3. João Vitor Pires Ribeiro
 4. Bruno Rodrigues
@@ -97,17 +97,17 @@ Soft Skills: Inglês avançado (interação diária com times globais), mentoria
 
 ## 2.1 Análise do GitHub
 
-* **01. Identificação do Perfil:** [Caio Fonseca.]
+* **01. Identificação do Perfil:[Caio Fonseca.]
 
-* **02. Repositórios Públicos:** [Apenas esse repositório.]
+* **02. Repositórios Públicos: [Apenas esse repositório.]
 
-* **03. Evolução de Seguidores:** [19 seguidores, nem todos que estao na turma seguiram!.]
+* **03. Evolução de Seguidores: [19 seguidores, nem todos que estao na turma seguiram!.]
 
-* * **04. Identificação do Perfil:** [Nicollas Guedes.]
+- 04. Identificação do Perfil: [Nicollas Guedes.]
 
-* **05. Repositórios Públicos:** [Apenas esse repositório.]
+- 05. Repositórios Públicos: [Apenas esse repositório.]
 
-* **06. Evolução de Seguidores:** [6 seguidores, nem todos que estao na turma seguiram!.]
+- 06. Evolução de Seguidores:** [6 seguidores, nem todos que estao na turma seguiram!.]
 
 ## 2.2 Análise do LinkedIn
 
