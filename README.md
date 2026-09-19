@@ -24,22 +24,30 @@ Há uma escassez histórica de profissionais de níveis pleno e sênior. A maior
 
 ### 1.2 Mapeamento de Vagas
 
-Para analisar as oportunidades disponíveis no mercado, foram consultadas vagas de Engenharia de Software no LinkedIn em setembro de 2026. A pesquisa apresentou mais de 4.000 vagas relacionadas à área no Brasil, contemplando diferentes níveis de experiência e modelos de trabalho.
+**Levantamento de Oportunidades (2026)**
 
-Algumas das vagas encontradas foram:
+Para analisar a demanda por profissionais de Engenharia de Software, foram consultadas vagas disponíveis no LinkedIn em setembro de 2026. A pesquisa apresentou mais de 4.000 oportunidades relacionadas à área no Brasil, abrangendo diferentes níveis de experiência e modelos de trabalho.
 
-* XP Inc. — Engenheiro(a) de Software, nível Assistente/Júnior, em São Paulo.
-* Google — Software Engineer, Early Career, em São Paulo/Belo Horizonte.
-* BTG Pactual — Engenheiro(a) de Software Frontend, em São Paulo.
-* UOL EdTech — Engenheiro de Software Jr., em São Paulo.
-* PagBank — Engenheiro de Software Pl. (Front-end).
-* Mercado Livre — Engenheiro de Software, em Osasco.
-* BairesDev — Engenheiro de Software .NET, com possibilidade de trabalho remoto.
-* Serasa Experian — Senior Software Engineer - Full Stack, em São Carlos.
+Entre as oportunidades encontradas, destacam-se:
 
-As vagas encontradas mostram oportunidades para diferentes níveis e especializações, principalmente em Front-end, Back-end e Full Stack. Também aparecem oportunidades em modelos presencial, híbrido e remoto.
+- **XP Inc. — Engenheiro(a) de Software:** oportunidade voltada para níveis Assistente e Júnior, em São Paulo.
+- **Google — Software Engineer, Early Career:** oportunidade destinada a profissionais em início de carreira.
+- **BTG Pactual — Engenheiro(a) de Software Frontend:** vaga voltada ao desenvolvimento Front-end, em São Paulo.
+- **UOL EdTech — Engenheiro de Software Jr.:** oportunidade para nível Júnior, com atuação envolvendo Node.js e React.js.
+- **PagBank — Engenheiro de Software Pl. (Front-end):** oportunidade para nível Pleno na área de desenvolvimento Front-end.
+- **Mercado Livre — Engenheiro de Software:** oportunidade na área de desenvolvimento de software, em Osasco.
+- **BairesDev — Engenheiro de Software .NET:** oportunidade com possibilidade de trabalho remoto.
+- **Serasa Experian — Senior Software Engineer - Full Stack:** oportunidade voltada ao desenvolvimento Full Stack, em São Carlos.
 
-Fonte: LinkedIn Jobs, consulta realizada em setembro de 2026.
+**Análise das Vagas**
+
+O levantamento demonstra que o mercado possui oportunidades desde posições de entrada até cargos de maior senioridade. Para profissionais no início da carreira, aparecem vagas de estágio, Assistente, Júnior e programas voltados a *Early Career*. Já para profissionais mais experientes, existe uma concentração maior de oportunidades Pleno e Sênior.
+
+As vagas também apresentam diferentes especializações, principalmente **Front-end, Back-end e Full Stack**, com tecnologias como React, Node.js, .NET e outras utilizadas no desenvolvimento de aplicações Web.
+
+Outro ponto observado é a variedade dos modelos de trabalho. Foram encontradas oportunidades presenciais, híbridas e remotas, mostrando que a modalidade de trabalho também varia de acordo com a empresa e a posição.
+
+**Fonte:** LinkedIn Jobs, consulta realizada em setembro de 2026.
 
 ### 1.3 Mapeamento de Competências
 
