@@ -5,7 +5,7 @@
 2. Caio Dal Pizzol Fonseca
 3. João Vitor Pires Ribeiro
 4. Bruno Rodrigues
-
+5. Denner de Paula Coutinho
 ---
 
 ## 1. Introdução e Análise de Mercado
@@ -19,7 +19,8 @@ Há uma escassez histórica de profissionais de níveis pleno e sênior. A maior
 
 **Expectativa Salarial (Média Brasileira atual)**
 * **Júnior:** R$ 4.000 a R$ 6.500
-* **Pleno:** R$ 7.500 a R$ 12.000
+* **Pleno:** R$ 7.500 a R$
+* 12.000
 * **Sênior e Especialista:** R$ 13.000 a R$ 22.000+ *(Profissionais alocados remotamente para o exterior frequentemente recebem remunerações em Dólar ou Euro).*
 
 ### 1.2 Mapeamento de Vagas
@@ -43,17 +44,45 @@ Fonte: LinkedIn Jobs, consulta realizada em setembro de 2026.
 
 ### 1.3 Mapeamento de Competências
 
-**Hard Skills (Técnicas)**
-* Proficiência em linguagens de programação e seus respectivos frameworks (ex: Spring Boot para Java, React/Angular para JavaScript, .NET para C#, Node.js/Python para backend).
-* Domínio de modelagem de dados em bancos relacionais (SQL) e não-relacionais (NoSQL).
-* Experiência com controle de versionamento descentralizado (Git/GitHub).
-* Conhecimento prático em testes automatizados e esteiras de CI/CD.
-* Compreensão de padrões de projeto (*Design Patterns*) e princípios SOLID, essenciais para construção de arquiteturas sólidas (como APIs REST seguras).
+ * XP Inc. — Engenheiro(a) de Software, nível Assistente/Júnior, em São Paulo.
 
-**Soft Skills (Comportamentais)**
-* **Resolução de Problemas:** Capacidade analítica para debugar sistemas complexos e propor soluções escaláveis e performáticas.
-* **Comunicação Assertiva:** Habilidade de traduzir regras de negócio em especificações técnicas e negociar prazos com *Stakeholders*.
-* **Trabalho em Equipe:** Vivência e colaboração ativa em metodologias ágeis (Scrum/Kanban), participando de *Code Reviews* de forma construtiva.
+Hard Skills: Conhecimento básico em C#, Java, Go ou Rust; boas práticas de desenvolvimento; diferenciais em Cloud (Azure) e Front-end (React)
+Soft Skills: Espírito empreendedor, mente aberta para aprender, foco no cliente, adaptabilidade a ambiente dinâmico
+
+ * Google — Software Engineer, Early Career, em São Paulo/Belo Horizonte.
+   
+Hard Skills: Graduação (ou experiência equivalente) em Ciência da Computação; ao menos 1 ano com Python, C, C++, Java ou JavaScript; estruturas de dados e algoritmos
+Soft Skills: Versatilidade para atuar em projetos e times diferentes, iniciativa/liderança, comunicação em inglês (currículo exigido em inglês), disposição para aprender áreas novas (IA, sistemas distribuídos, etc.)
+
+* BTG Pactual — Engenheiro(a) de Software Frontend, em São Paulo.
+
+Hard Skills: ReactJS, TypeScript, gerenciamento de estado (Context API/Redux/Recoil), microfrontends e Webpack, consumo de APIs (Axios/GraphQL), princípios SOLID, metodologias ágeis
+Soft Skills: Capacidade de aprender rapidamente novas tecnologias, relacionamento próximo com áreas de negócio, protagonismo na construção de soluções
+
+* UOL EdTech — Engenheiro de Software Jr., em São Paulo.
+
+Hard Skills: Node.js, React.js, JavaScript, integração de APIs REST, fundamentos de banco de dados
+Soft Skills: Paixão por educação e tecnologia, capacidade de unir múltiplas competências, trabalho colaborativo em times multidisciplinares
+
+* PagBank — Engenheiro de Software Pl. (Front-end)
+
+Hard Skills: React/Angular, TypeScript, HTML5/CSS3/SCSS, testes automatizados, Cloud AWS, design systems e micro-frontends
+Soft Skills: Colaboração com times multidisciplinares (produto, design, backend), atenção à qualidade e performance, comunicação técnica clara
+
+* Mercado Livre — Engenheiro de Software, em Osasco.
+
+Hard Skills: Java/Kotlin, arquitetura de microsserviços, APIs REST, Cloud (AWS/GCP), Kubernetes, bancos de dados
+Soft Skills: Pensamento analítico, capacidade de inovação, boa comunicação, colaboração em equipes, orientação a resultados
+
+* BairesDev — Engenheiro de Software .NET, com possibilidade de trabalho remoto.
+
+Hard Skills: C#, .NET Core/ASP.NET, SQL Server, integração de APIs e serviços de terceiros, padrões de design (SOLID/Clean Code)
+Soft Skills: Inglês avançado (times internacionais), autonomia e proatividade (trabalho 100% remoto), comprometimento com prazos e qualidade
+
+* Serasa Experian — Senior Software Engineer - Full Stack, em São Carlos.
+
+Hard Skills: APIs RESTful, arquiteturas orientadas a eventos, AWS (API Gateway, Lambda, ECS/Fargate, S3, Aurora, CloudWatch), design de sistemas escaláveis e seguros
+Soft Skills: Inglês avançado (interação diária com times globais), mentoria de outros engenheiros, colaboração entre produto/arquitetura/engenharia, senso de excelência operacional
 
 ---
 
