@@ -168,14 +168,19 @@ Soft Skills: Inglês avançado (interação diária com times globais), mentoria
 
 ### 3.4 Plano de Ação
 
-O plano de ação tem como objetivo reduzir os principais gaps identificados e alinhar as competências profissionais às exigências do mercado de Engenharia de Software.
+Considerando a rotina dos integrantes, que conciliam trabalho, faculdade, deslocamentos e vida pessoal, o plano será desenvolvido de forma gradual, utilizando principalmente as noites de quarta e sexta-feira. Os estudos complementares serão realizados por meio de conteúdos gratuitos disponíveis no YouTube, documentações oficiais e materiais disponíveis na internet.
 
-- 0–3 meses: Estudar Java por pelo menos 5 horas semanais e desenvolver **2 projetos**, aplicando orientação a objetos, Git e GitHub.
-- 3–6 meses: Aprender SQL e Spring Boot, desenvolvendo **1 API REST completa** integrada a um banco de dados.
-- 6–9 meses: Implementar **testes automatizados** em pelo menos 2 projetos e criar **1 pipeline de CI/CD** utilizando GitHub Actions.
-- 6–12 meses: Publicar **4 projetos no GitHub**, todos com README, documentação e instruções de execução.
-- 6–12 meses: Participar de pelo menos **1 projeto colaborativo ou Open Source**, realizando contribuições por meio de pull requests.
-- 1–2 anos: Buscar uma oportunidade de estágio ou posição Júnior e adquirir experiência prática com desenvolvimento de software em equipe.
-- 2–3 anos: Aprofundar conhecimentos em **Cloud, microsserviços, arquitetura de software e segurança**, realizando pelo menos um curso ou certificação relacionada a essas áreas.
+- Quarta-feira: reservar aproximadamente 1 hora à noite para estudar programação, alternando entre Java, SQL e Git/GitHub.
+- Sexta-feira: reservar aproximadamente 1 hora à noite para praticar programação e desenvolver os projetos do grupo.
+- Dias de aula: priorizar as disciplinas da faculdade, como Banco de Dados, Algoritmos e Front End, sem estabelecer estudos adicionais obrigatórios devido ao tempo de deslocamento e ao horário de chegada em casa.
+- Finais de semana: manter os momentos de lazer, família e hobbies, utilizando o tempo de estudo apenas quando necessário para trabalhos ou projetos.
 
-O progresso será acompanhado por meio das metas concluídas, projetos publicados, contribuições realizadas, cursos e certificações obtidos e experiências profissionais adquiridas.
+- Metas para os próximos 6 meses:
+
+- Desenvolver 1 projeto prático utilizando conhecimentos de programação e banco de dados.
+- Criar e manter um GitHub organizado, realizando commits regularmente durante o desenvolvimento.
+- Fortalecer os conhecimentos de Java, SQL, Git, lógica de programação, HTML e CSS.
+- Utilizar YouTube, documentações oficiais e materiais gratuitos da internet como principais fontes de aprendizado.
+- Ao final dos 6 meses, revisar os conhecimentos adquiridos e definir a próxima tecnologia a ser estudada, como Spring Boot.
+
+O progresso será acompanhado pela quantidade de projetos concluídos, commits realizados, conteúdos estudados e tecnologias aprendidas. Dessa forma, o plano busca eliminar gradualmente os gaps identificados, mantendo uma rotina compatível com a faculdade, o trabalho e a vida pessoal dos integrantes.
