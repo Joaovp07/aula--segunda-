@@ -51,42 +51,58 @@ Fonte: LinkedIn Jobs, consulta realizada em setembro de 2026.
  * XP Inc. — Engenheiro(a) de Software, nível Assistente/Júnior, em São Paulo.
 
 Hard Skills: Conhecimento básico em C#, Java, Go ou Rust; boas práticas de desenvolvimento; diferenciais em Cloud (Azure) e Front-end (React)
-Soft Skills: Espírito empreendedor, mente aberta para aprender, foco no cliente, adaptabilidade a ambiente dinâmico
+Soft Skills: Espírito empreendedor, mente aberta para aprender, foco no cliente, adaptabilidade a ambiente dinâmico.
+
+A vaga reflete o modelo de contratação de uma fintech que cresce rápido e prefere "formar em casa" a contratar pronto: o requisito técnico é deliberadamente aberto ("C#, Java, Go ou Rust — qualquer uma"), porque a real seleção acontece no comportamento. Vale notar que a exigência de presença física (2x/semana no escritório) reforça que a XP ainda aposta em aprendizado por proximidade — mentoria informal, pair programming, cultura de corredor — o que é coerente com times júnior. Para quem está se preparando, o recado é: dominar bem uma linguagem só (mesmo que simples) e mostrar disposição para se integrar à cultura importa mais do que colecionar tecnologias.
 
  * Google — Software Engineer, Early Career, em São Paulo/Belo Horizonte.
    
 Hard Skills: Graduação (ou experiência equivalente) em Ciência da Computação; ao menos 1 ano com Python, C, C++, Java ou JavaScript; estruturas de dados e algoritmos
 Soft Skills: Versatilidade para atuar em projetos e times diferentes, iniciativa/liderança, comunicação em inglês (currículo exigido em inglês), disposição para aprender áreas novas (IA, sistemas distribuídos, etc.)
 
+A exigência de estruturas de dados e algoritmos — mesmo em vaga de entrada — existe porque o processo seletivo do Google é padronizado globalmente e não é adaptado por país ou nível de senioridade da mesma forma que empresas locais fazem. Isso cria um paradoxo interessante: é uma vaga "early career" com barra de entrada mais alta que muitas vagas plenas do mercado brasileiro. Communication em inglês (currículo obrigatório em inglês) já filtra parte dos candidatos antes mesmo da entrevista técnica. Na prática, essa vaga recompensa quem investiu em fundamentos acadêmicos (CS clássico) mais do que quem acumulou experiência prática com frameworks específicos — um perfil mais "acadêmico" que o das fintechs brasileiras do mapeamento.
+
 * BTG Pactual — Engenheiro(a) de Software Frontend, em São Paulo.
 
 Hard Skills: ReactJS, TypeScript, gerenciamento de estado (Context API/Redux/Recoil), microfrontends e Webpack, consumo de APIs (Axios/GraphQL), princípios SOLID, metodologias ágeis
 Soft Skills: Capacidade de aprender rapidamente novas tecnologias, relacionamento próximo com áreas de negócio, protagonismo na construção de soluções
+
+Aqui a profundidade técnica exigida (microfrontends, Webpack Module Federation, múltiplos gerenciadores de estado) só faz sentido em uma organização com múltiplos times trabalhando na mesma aplicação simultaneamente — típico de bancos grandes que fragmentam produtos em squads independentes. Isso significa que a vaga não está testando "saber React", mas sim "saber integrar React dentro de uma arquitetura distribuída e compartilhada com dezenas de outros times". É um salto de complexidade que normalmente só se adquire trabalhando em produtos de grande escala — por isso a vaga, apesar de não exigir explicitamente "sênior" no nome, tem um perfil técnico mais avançado que um pleno comum de mercado.
 
 * UOL EdTech — Engenheiro de Software Jr., em São Paulo.
 
 Hard Skills: Node.js, React.js, JavaScript, integração de APIs REST, fundamentos de banco de dados
 Soft Skills: Paixão por educação e tecnologia, capacidade de unir múltiplas competências, trabalho colaborativo em times multidisciplinares
 
+O par de tecnologias (Node.js + React) é comum no mercado brasileiro justamente porque compartilha a mesma linguagem (JavaScript) do início ao fim — uma escolha estratégica de empresas que querem times pequenos e multifuncionais, onde o mesmo desenvolvedor transita entre back e front sem trocar de contexto mental. O apelo emocional ("paixão por educação e tecnologia") não é apenas retórica de vaga: em edtechs, a retenção de talento costuma estar ligada ao propósito percebido do trabalho, então empresas do setor filtram por esse alinhamento desde o anúncio da vaga — algo que vale a pena espelhar numa carta de apresentação ou entrevista.
+
 * PagBank — Engenheiro de Software Pl. (Front-end)
 
 Hard Skills: React/Angular, TypeScript, HTML5/CSS3/SCSS, testes automatizados, Cloud AWS, design systems e micro-frontends
-Soft Skills: Colaboração com times multidisciplinares (produto, design, backend), atenção à qualidade e performance, comunicação técnica clara
+Soft Skills: Colaboração com times multidisciplinares (produto, design, backend), atenção à qualidade e performance, comunicação técnica clara.
+
+A presença de testes automatizados, CI/CD e cloud como requisitos (não diferenciais) marca a transição real entre júnior e pleno: o pleno não é mais avaliado só pela capacidade de entregar uma funcionalidade, mas pela capacidade de entregá-la de forma sustentável — código testável, versionado, monitorável. É também a primeira vaga do mapeamento em que "conhecimento de design systems" aparece explicitamente, sinal de que a empresa já trabalha com um design system maduro e espera que o profissional consiga contribuir para ele, não apenas consumi-lo.
 
 * Mercado Livre — Engenheiro de Software, em Osasco.
 
 Hard Skills: Java/Kotlin, arquitetura de microsserviços, APIs REST, Cloud (AWS/GCP), Kubernetes, bancos de dados
 Soft Skills: Pensamento analítico, capacidade de inovação, boa comunicação, colaboração em equipes, orientação a resultados
 
+O peso de Kubernetes, microsserviços e múltiplas nuvens (AWS/GCP) reflete a escala de operação de um marketplace que processa altíssimo volume de transações simultâneas — infraestrutura aqui não é acessório, é o próprio produto. Vale destacar que "pensamento analítico" e "orientação a resultados" aparecem repetidamente nas descrições da empresa: isso indica uma cultura fortemente data-driven, em que decisões técnicas são frequentemente justificadas por métricas de negócio (conversão, latência, custo de infraestrutura), não apenas por preferência de arquitetura. Um candidato que só sabe "programar bem" mas não sabe conectar suas decisões a impacto de negócio tende a ter mais dificuldade nesse tipo de processo seletivo.
+
 * BairesDev — Engenheiro de Software .NET, com possibilidade de trabalho remoto.
 
 Hard Skills: C#, .NET Core/ASP.NET, SQL Server, integração de APIs e serviços de terceiros, padrões de design (SOLID/Clean Code)
-Soft Skills: Inglês avançado (times internacionais), autonomia e proatividade (trabalho 100% remoto), comprometimento com prazos e qualidade
+Soft Skills: Inglês avançado (times internacionais), autonomia e proatividade (trabalho 100% remoto), comprometimento com prazos e qualidade.
+
+Por ser uma consultoria de outsourcing que aloca desenvolvedores em projetos de clientes internacionais (Google, Rolls-Royce, Pinterest citados nas vagas), o produto real da BairesDev é o próprio desenvolvedor — o que explica por que competências "de portfólio pessoal" (SOLID, Clean Code, arquitetura) pesam tanto quanto a stack em si: o profissional precisa ser plugável em qualquer time cliente sem curva de adaptação longa. O inglês avançado não é coadjuvante aqui, é pré-requisito estrutural do modelo de negócio. Isso torna essa vaga particularmente adequada para quem busca experiência internacional rápida, mas exige preparo de comunicação técnica em inglês antes mesmo de aplicar.
 
 * Serasa Experian — Senior Software Engineer - Full Stack, em São Carlos.
 
 Hard Skills: APIs RESTful, arquiteturas orientadas a eventos, AWS (API Gateway, Lambda, ECS/Fargate, S3, Aurora, CloudWatch), design de sistemas escaláveis e seguros
 Soft Skills: Inglês avançado (interação diária com times globais), mentoria de outros engenheiros, colaboração entre produto/arquitetura/engenharia, senso de excelência operacional
+
+A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (Lambda, Fargate, Aurora) e mentoria de outros engenheiros mostra que, em nível sênior, a vaga deixa de avaliar "o que a pessoa sabe fazer sozinha" e passa a avaliar "o que a pessoa consegue multiplicar no time". Isso é reforçado pelo fato de a empresa lidar com dados sensíveis de crédito e fraude em escala nacional — decisões de arquitetura aqui têm implicação direta em compliance e segurança, então a vaga naturalmente filtra por experiência prévia com sistemas críticos, não apenas por conhecimento técnico isolado.
 
 ---
 
