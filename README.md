@@ -11,17 +11,21 @@
 ## 1. Introdução e Análise de Mercado
 
 ### 1.1 Análise de Mercado
-**Panorama Atualizado e Tendências**
-A Engenharia de Software é o núcleo da transformação digital, mantendo-se como uma das áreas mais resilientes e demandadas da tecnologia. O mercado exige atualmente sistemas altamente escaláveis, seguros e preparados para integração com inteligência artificial. O desenvolvimento orientado à nuvem (*Cloud-Native*), a transição de monólitos para arquiteturas de microsserviços e a automação por meio de práticas de DevOps são as principais tendências técnicas. O formato de trabalho remoto e híbrido segue consolidado, permitindo que profissionais brasileiros concorram a vagas globais.
+
+**Panorama Atualizado e Tendências (2026)**
+A Engenharia de Software no Brasil vive um momento de amadurecimento técnico e expansão estratégica. Diferente do crescimento desordenado de anos anteriores, o mercado atual busca eficiência e governança. O setor se mantém como um dos mais resilientes do país, e pesquisas recentes indicam que quase 70% das empresas brasileiras pretendem aumentar ou manter o volume de contratações em tecnologia ao longo do ano. Entre as tendências técnicas que ditam o rumo da engenharia de software, destacam-se:
+
+*   **Inteligência Artificial Integrada e Assistida:** A IA não é mais apenas um nicho isolado, mas uma ferramenta embarcada no ciclo de vida do software. O uso de IA generativa (como assistentes avançados de código e *Prompt Engineering*) tornou-se padrão para acelerar o desenvolvimento. Além disso, há uma corrida para integrar APIs de IA em aplicações corporativas tradicionais.
+*   **Arquiteturas Cloud-Native e Microsserviços:** A quebra de sistemas monolíticos em microsserviços distribuídos já é o padrão da indústria. A exigência é por aplicações que nascem na nuvem (AWS, Azure, Google Cloud), focadas em alta disponibilidade, escalabilidade sob demanda e observabilidade.
+*   **DevSecOps e Privacidade (Privacy by Design):** Impulsionadas pela consolidação da LGPD no Brasil e pela sofisticação das ameaças cibernéticas, as práticas de segurança deixaram de ser responsabilidade de uma equipe isolada. O mercado exige que o desenvolvedor aplique segurança desde a primeira linha de código, mitigando vulnerabilidades em tempo de desenvolvimento.
+*   **A consolidação do modelo Remoto/Híbrido:** O mercado brasileiro estabeleceu o trabalho remoto e híbrido não como um benefício temporário, mas como um modelo operacional definitivo. Isso permite que profissionais baseados no Brasil, especialmente nos grandes polos de tecnologia como São Paulo, prestem serviços diretamente para empresas globais.
 
 **Levantamento de Vagas e Demanda**
-Há uma escassez histórica de profissionais de níveis pleno e sênior. A maior demanda de vagas concentra-se em desenvolvedores *Full-Stack*, engenheiros de *Back-end* (com forte apelo para Java, C#, Node.js, Python e Go) e especialistas em arquitetura de sistemas. Plataformas como LinkedIn e portais específicos de TI apresentam milhares de vagas abertas continuamente, impulsionadas pelo setor financeiro (fintechs), e-commerces, healthtechs e empresas tradicionais modernizando seu legado tecnológico.
+A dinâmica de contratação do mercado de software apresenta um descompasso estrutural: existe uma escassez crítica e histórica de profissionais de níveis Pleno, Sênior e Especialista, enquanto a base da pirâmide (posições de Estágio e Júnior) enfrenta altíssima concorrência. Para as posições de entrada, o mercado migrou para a **seleção baseada em competências práticas**, onde o diploma universitário divide o peso com o portfólio de projetos reais, exigindo repositórios organizados no GitHub, documentação clara e versionamento impecável (Git).
 
-**Expectativa Salarial (Média Brasileira atual)**
-* **Júnior:** R$ 4.000 a R$ 6.500
-* **Pleno:** R$ 7.500 a R$
-* 12.000
-* **Sênior e Especialista:** R$ 13.000 a R$ 22.000+ *(Profissionais alocados remotamente para o exterior frequentemente recebem remunerações em Dólar ou Euro).*
+*   **Stacks e Especialidades em Alta:** O volume massivo de vagas concentra-se no desenvolvimento Web e de APIs. No Front-end, o foco está na criação de interfaces ricas, escaláveis e fluidas, com domínio absoluto do ecossistema JavaScript (especialmente bibliotecas e frameworks reativos como React e Next.js). No Back-end, há uma busca incessante por desenvolvedores capazes de lidar com alto volume de requisições e persistência de dados (SQL e NoSQL), com linguagens como Python (altamente alavancada pela sua sinergia com dados e IA), Node.js, Java e C#.
+*   **Canais e Novos Modelos de Ingresso:** Para captar oportunidades, o LinkedIn continua sendo a principal vitrine corporativa, enquanto portais tradicionais de recrutamento, como a Catho, seguem movimentando o mercado CLT no Brasil para vagas de entrada e programas de aprendizagem. 
+*   **O Papel das Plataformas de Freelance:** Uma tendência emergente para desenvolvedores Júnior é a utilização de plataformas de *freelance* (como Workana e 99Freelas) como verdadeiros laboratórios de mercado. Atuar nessas plataformas não apenas gera renda complementar, mas permite que o profissional iniciante valide suas *Hard Skills* construindo soluções para clientes reais, negociando escopos (*Soft Skills*) e enriquecendo seu portfólio prático, o que reduz substancialmente o tempo de espera pela primeira oportunidade formal.
 
 ### 1.2 Mapeamento de Vagas
 
