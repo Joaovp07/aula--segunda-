@@ -2,7 +2,7 @@
 
 **Integrantes (em ordem lexicográfica):**
 1. [Nome do(a) Aluno(a) A]
-2. [Nome do(a) Aluno(a) B]
+2. Caio Dal Pizzol Fonseca
 3. João Vitor Pires Ribeiro
 4. Bruno Rodrigues
 
@@ -22,7 +22,26 @@ Há uma escassez histórica de profissionais de níveis pleno e sênior. A maior
 * **Pleno:** R$ 7.500 a R$ 12.000
 * **Sênior e Especialista:** R$ 13.000 a R$ 22.000+ *(Profissionais alocados remotamente para o exterior frequentemente recebem remunerações em Dólar ou Euro).*
 
-### 1.2 Mapeamento de Competências
+### 1.2 Mapeamento de Vagas
+
+Para analisar as oportunidades disponíveis no mercado, foram consultadas vagas de Engenharia de Software no LinkedIn em setembro de 2026. A pesquisa apresentou mais de 4.000 vagas relacionadas à área no Brasil, contemplando diferentes níveis de experiência e modelos de trabalho.
+
+Algumas das vagas encontradas foram:
+
+* XP Inc. — Engenheiro(a) de Software, nível Assistente/Júnior, em São Paulo.
+* Google — Software Engineer, Early Career, em São Paulo/Belo Horizonte.
+* BTG Pactual — Engenheiro(a) de Software Frontend, em São Paulo.
+* UOL EdTech — Engenheiro de Software Jr., em São Paulo.
+* PagBank — Engenheiro de Software Pl. (Front-end).
+* Mercado Livre — Engenheiro de Software, em Osasco.
+* BairesDev — Engenheiro de Software .NET, com possibilidade de trabalho remoto.
+* Serasa Experian — Senior Software Engineer - Full Stack, em São Carlos.
+
+As vagas encontradas mostram oportunidades para diferentes níveis e especializações, principalmente em Front-end, Back-end e Full Stack. Também aparecem oportunidades em modelos presencial, híbrido e remoto.
+
+Fonte: LinkedIn Jobs, consulta realizada em setembro de 2026.
+
+### 1.3 Mapeamento de Competências
 
 **Hard Skills (Técnicas)**
 * Proficiência em linguagens de programação e seus respectivos frameworks (ex: Spring Boot para Java, React/Angular para JavaScript, .NET para C#, Node.js/Python para backend).
@@ -41,34 +60,65 @@ Há uma escassez histórica de profissionais de níveis pleno e sênior. A maior
 ## 2. Capítulos Individuais 
 *(Nota: Copiar e colar a estrutura abaixo para cada integrante do grupo)*
 
-### Capítulo Individual — [Nome do Aluno]
+# Capítulo Individual — Caio Dal Pizzol Fonseca
 
-#### 2.1 Análise do GitHub
-* **01. Identificação do Perfil:** [Nome de usuário e descrição do conteúdo do README.md]
-* **02. Repositórios Públicos:** [Quantidade de repositórios, descrição dos repositórios fixados (pinned) e dos mais estrelados]
-* **03. Evolução de Seguidores:** [Análise do crescimento da base de seguidores e engajamento]
+## 2.1 Análise do GitHub
 
-#### 2.2 Análise do LinkedIn
-* **Cargo Alvo e Stack:** [Cargo desejado, stack principal e aderência ao mercado]
-* **Headline Profissional:** [Sua headline do LinkedIn e as palavras-chave utilizadas]
-* **Crescimento da Rede:** [Evolução de conexões e seguidores]
-* **Atividade e Engajamento:** [Frequência e qualidade de publicações e comentários]
+* **01. Identificação do Perfil:** [Caio Fonseca.]
 
-#### 2.3 Outras Redes e Planejamento
-* **Instagram:** [Avaliação do posicionamento profissional na bio e conteúdo publicado]
-* **Outras Redes Profissionais:** [Comentários sobre Dev.to, Substack, Medium, Notion, etc.]
+* **02. Repositórios Públicos:** [Apenas esse repositório.]
+
+* **03. Evolução de Seguidores:** [19 seguidores, nem todos que estao na turma seguiram!.]
+
+## 2.2 Análise do LinkedIn
+
+* **Cargo Alvo e Stack:** O objetivo profissional é atuar como Desenvolvedor Front-end Júnior. A principal stack é formada por React, Next.js, TypeScript e JavaScript, além de HTML, CSS, Git e integração com APIs. Também possui conhecimentos básicos em Python e MySQL e conhecimentos introdutórios em Azure e AWS.
+
+* **Headline Profissional:** Desenvolvedor Front-end Júnior | React | Next.js | TypeScript | JavaScript. A headline destaca o cargo desejado e as principais tecnologias utilizadas profissionalmente.
+
+* **Crescimento da Rede:** [27 conexões apenas.]
+
+* **Atividade e Engajamento:** [Uma/Duas vezes por semana .]
+
+## 2.3 Outras Redes e Planejamento
+
+* **Instagram:** [Não tem relação a carreira de tecnlogia.]
+
+* **Outras Redes Profissionais:** [---- .]
+
 * **Plano de Carreira:**
-  * Curto prazo (6 a 12 meses): [Seus objetivos]
-  * Médio prazo (1 a 3 anos): [Seus objetivos]
-  * Longo prazo (3 a 5 anos ou mais): [Seus objetivos]
-* **PDI (Plano de Desenvolvimento Individual):** [Metas claras de evolução técnica e comportamental com prazos]
 
-#### 2.4 Feedback por Pares
-* **O que o grupo avaliou sobre [Nome do Aluno]:**
-  * Qualidade e consistência dos perfis digitais.
-  * Clareza e viabilidade do Plano de Carreira.
-  * Coerência do PDI com a área escolhida.
-* **Comentários de melhoria contínua:** [Inserir feedback construtivo e propositivo do grupo]
+  * **Curto prazo (6 a 12 meses):** Aprofundar os conhecimentos em desenvolvimento Front-end, principalmente em React, Next.js e TypeScript, além de melhorar os conhecimentos em APIs, Git e bancos de dados.
+
+  * **Médio prazo (1 a 3 anos):** Evoluir profissionalmente para uma posição de Desenvolvedor Pleno, ampliando os conhecimentos em Back-end, arquitetura de software, integração de APIs e Cloud.
+
+  * **Longo prazo (3 a 5 anos ou mais):** Tornar-se um profissional Full Stack com maior domínio de arquitetura e desenvolvimento de sistemas, buscando também oportunidades profissionais no mercado internacional.
+
+* **PDI (Plano de Desenvolvimento Individual):**
+
+  * Aprofundar React, Next.js e TypeScript por meio de projetos práticos ao longo dos próximos 6 meses.
+
+  * Desenvolver conhecimentos em Back-end e APIs, criando pelo menos um projeto completo nos próximos 12 meses.
+
+  * Evoluir os conhecimentos em SQL e bancos de dados.
+
+  * Aprofundar conhecimentos em Cloud, principalmente Azure e AWS.
+
+  * Melhorar o inglês, atualmente em nível intermediário B1, visando oportunidades profissionais futuras no mercado internacional.
+
+  * Manter um GitHub ativo, publicando projetos e documentando os principais trabalhos realizados.
+
+## 2.4 Feedback por Pares
+
+* **O que o grupo avaliou sobre Caio Dal Pizzol Fonseca:**
+
+  * O perfil profissional apresenta boa relação entre experiência, formação e objetivo de carreira, com experiência prática em desenvolvimento Front-end e utilização de tecnologias atuais.
+
+  * O Plano de Carreira apresenta uma evolução gradual, partindo do desenvolvimento Front-end e avançando para conhecimentos de Back-end, Cloud e arquitetura de software.
+
+  * O PDI está relacionado às competências exigidas pelo mercado de Engenharia de Software, principalmente desenvolvimento, APIs, bancos de dados, Cloud e inglês.
+
+* **Comentários de melhoria contínua:** Como pontos de melhoria, o grupo considera importante ampliar a experiência em Back-end, aprofundar os conhecimentos em arquitetura de software e Cloud e manter uma presença mais ativa nas plataformas profissionais.
 
 ---
 
