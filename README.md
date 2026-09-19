@@ -168,14 +168,30 @@ Soft Skills: Inglês avançado (interação diária com times globais), mentoria
 
 ### 3.4 Plano de Ação
 
-O plano de ação tem como objetivo reduzir os principais gaps identificados e alinhar as competências profissionais às exigências do mercado de Engenharia de Software.
+O plano de ação considera a rotina dos integrantes, que conciliam trabalho, faculdade, longos deslocamentos e vida pessoal. Por isso, as atividades serão concentradas principalmente nas noites de quarta e sexta-feira, evitando sobrecarga nos dias de aula. Todo o aprendizado complementar será realizado por meio de **recursos gratuitos disponíveis na internet e no YouTube**.
 
-- 0–3 meses: Estudar Java por pelo menos 5 horas semanais e desenvolver **2 projetos**, aplicando orientação a objetos, Git e GitHub.
-- 3–6 meses: Aprender SQL e Spring Boot, desenvolvendo **1 API REST completa** integrada a um banco de dados.
-- 6–9 meses: Implementar **testes automatizados** em pelo menos 2 projetos e criar **1 pipeline de CI/CD** utilizando GitHub Actions.
-- 6–12 meses: Publicar **4 projetos no GitHub**, todos com README, documentação e instruções de execução.
-- 6–12 meses: Participar de pelo menos **1 projeto colaborativo ou Open Source**, realizando contribuições por meio de pull requests.
-- 1–2 anos: Buscar uma oportunidade de estágio ou posição Júnior e adquirir experiência prática com desenvolvimento de software em equipe.
-- 2–3 anos: Aprofundar conhecimentos em **Cloud, microsserviços, arquitetura de software e segurança**, realizando pelo menos um curso ou certificação relacionada a essas áreas.
+- Segunda, terça e quinta-feira: Priorizar as aulas da faculdade e os conteúdos de Design Profissional, Banco de Dados e Algoritmos. Como o deslocamento é longo e a chegada em casa ocorre tarde, não haverá obrigação de estudos adicionais nesses dias.
+- Quarta-feira: Reservar aproximadamente 1 hora à noite para estudos de programação, utilizando cursos gratuitos no YouTube, com foco inicialmente em Java e lógica de programação.
+- Sexta-feira: Reservar aproximadamente 1 hora à noite para prática e desenvolvimento dos projetos, utilizando GitHub para versionamento e materiais gratuitos encontrados na internet para consulta e resolução de dúvidas.
+- Sábado: Participar da aula de Front End e, após a aula, priorizar descanso, família, amigos e hobbies. Os conteúdos de HTML e CSS poderão ser revisados durante a própria atividade da disciplina.
+- Domingo: Manter como principal dia de descanso, realizando estudos somente quando houver necessidade acadêmica ou alguma etapa importante dos projetos.
 
-O progresso será acompanhado por meio das metas concluídas, projetos publicados, contribuições realizadas, cursos e certificações obtidos e experiências profissionais adquiridas.
+**Ferramentas e fontes de aprendizado:
+
+- Java: cursos gratuitos no YouTube e documentação oficial da linguagem.
+- SQL e Banco de Dados: conteúdos gratuitos no YouTube, documentação e materiais disponíveis na internet.
+- Git e GitHub: tutoriais gratuitos no YouTube e documentação oficial do GitHub.
+- Spring Boot: cursos e projetos práticos gratuitos no YouTube e documentação oficial do Spring.
+- HTML e CSS: conteúdos da própria faculdade, complementados por tutoriais gratuitos no YouTube.
+- Testes automatizados e CI/CD: materiais gratuitos no YouTube e documentações oficiais das ferramentas utilizadas.
+
+- Metas para os próximos 6 a 12 meses:
+
+- Desenvolver 2 projetos práticos utilizando os conhecimentos adquiridos.
+- Manter um GitHub organizado, com README e documentação básica dos projetos.
+- Fortalecer Java, SQL, Git, lógica de programação, HTML e CSS.
+- Iniciar estudos de Spring Boot, testes automatizados e CI/CD após consolidar os fundamentos.
+- Participar de pelo menos 1 projeto colaborativo.
+- Avaliar o progresso a cada 3 meses, ajustando as metas de acordo com a rotina de faculdade e trabalho.
+
+O plano busca garantir uma evolução contínua e sustentável, utilizando recursos 100% gratuitos, sem comprometer o desempenho acadêmico, o trabalho e os momentos de lazer dos integrantes.
