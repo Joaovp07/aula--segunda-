@@ -117,9 +117,9 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 ## 2. Capítulos Individuais 
 *(Nota: Copiar e colar a estrutura abaixo para cada integrante do grupo)*
 
-# Capítulo Individual — Caio Dal Pizzol Fonseca
-
 ## 2.1 Análise do GitHub
+
+# Capítulo Individual — Caio Dal Pizzol Fonseca
 
 * **01. Identificação do Perfil:[Caio Fonseca.]
 
@@ -128,8 +128,6 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 * **03. Evolução de Seguidores: [19 seguidores, nem todos que estao na turma seguiram!.]
 
 # Capítulo Individual — Denner de Paula Coutinho
-
-## 2.1 Análise do GitHub
 
 * **01. Identificação do Perfil:[Denner Coutinho.]
 
