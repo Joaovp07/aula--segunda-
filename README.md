@@ -150,7 +150,7 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 
   # Capítulo Individual — Denner de Paula Coutinho
 
-  * **Cargo Alvo e Stack:** O objetivo profissional é atuar como Analista de Qualidade Jr. (QA). O combo mais pedido no mercado é testes manuais + Jira + SQL + Selenium/Playwright (com JavaScript ou Python) + Postman.
+* **Cargo Alvo e Stack:** O objetivo profissional é atuar como Analista de Qualidade Jr. (QA). O combo mais pedido no mercado é testes manuais + Jira + SQL + Selenium/Playwright (com JavaScript ou Python) + Postman.
 
 * **Headline Profissional:** Agente de Prevenção à Fraudes Jr. | Estudante de ADS | Tecnologia | Análise de Dados | Documentoscopia | Grafoscopia
 
