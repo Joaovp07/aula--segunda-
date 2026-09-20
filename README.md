@@ -316,6 +316,29 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
   **Mês 1-2:** Aprofundar os conhecimentos em TypeScript e integração de APIs REST aplicadas ao ecossistema React/Next.js.
   * **Mês 3-4:** Evoluir os conhecimentos de Back-end com Node.js e Python, construindo microsserviços do zero.
   * **Mês 5-6:** Explorar a fundo bibliotecas de IA (como APIs de modelos generativos) para automatizar processos dentro de aplicações web.
+ 
+  # Capítulo Individual - Bruno Rodrigues
+  - Instagram: [Não possui foco profissional em tecnologia.]
+
+  - Outras Redes Profissionais: [GitHub e LinkedIn.]
+  
+  - Plano de Carreira:
+    - Curto prazo (6 a 12 meses): Aprofundar Python, SQL, Excel e análise de dados, desenvolvendo projetos práticos.
+    - Médio prazo (1 a 3 anos): Buscar oportunidades como Analista de Dados e ampliar conhecimentos em Engenharia de Dados.
+    - Longo prazo (3 a 5 anos ou mais): Tornar-se Engenheiro de Dados, preferencialmente no setor financeiro, buscando oportunidades internacionais.
+
+  - PDI (Plano de Desenvolvimento Individual):
+    * Concluir o estudo de NumPy e iniciar Pandas nos próximos meses.
+    
+    * Desenvolver 3 projetos de análise de dados com Python, SQL e Excel em até 12 meses.
+    
+    * Publicar pelo menos 1 projeto por trimestre no GitHub.
+    
+    * Desenvolver 1 projeto com banco de dados e SQL avançado em até 12 meses.
+    
+    * Manter o estudo de inglês diariamente, evoluindo do nível atual B1 para B2.
+    
+    *  Iniciar estudos de Java e desenvolver 1 projeto básico em até 12 meses.
     
 ## 2.4 Feedback por Pares
 
