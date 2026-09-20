@@ -145,8 +145,6 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 
 # Capitulo Individual - Bruno Rodrigues
 
-Capítulo Individual — Bruno Rodrigues
-
 - 01 Identificação do Perfil: [Bruno Rodrigues — dev-rodrigues-bruno.]
 
 - 02 Repositórios Públicos: [3 repositórios públicos: ProjetoSql, Gravity-Falls-Python e aula–segunda-.]
