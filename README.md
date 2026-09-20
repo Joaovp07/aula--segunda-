@@ -135,6 +135,13 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 
 * **03. Evolução de Seguidores: [18 seguidores, nem todos que estao na turma seguiram!.]
 
+# Capítulo Individual — Nicollas Guedes
+
+* **01. Identificação do Perfil:** [Nicollas Guedes.]
+
+* **02. Repositórios Públicos:** [Apenas esse repositório.]
+
+* **03. Evolução de Seguidores:** [6 seguidores, nem todos que estao na turma seguiram!.]
 
 ## 2.2 Análise do LinkedIn
 
@@ -157,6 +164,16 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 * **Crescimento da Rede:** [31 conexões.]
 
 * **Atividade e Engajamento:** [Duas/Três vees por semana .]
+
+# Capítulo Individual — Nicollas Guedes
+
+* **Cargo Alvo e Stack:** O objetivo profissional é atuar como Desenvolvedor Back-end Júnior. A principal stack é formada por Python, Node.js, TypeScript e SQL (MySQL/PostgreSQL), com foco na construção de APIs RESTful, regras de negócio e modelagem de bancos de dados. Também possui conhecimentos básicos em Git, Docker e noções de arquitetura de nuvem (AWS/Azure).
+
+* **Headline Profissional:** Desenvolvedor Back-end Júnior | Python | Node.js | TypeScript | MySQL | APIs REST. A headline destaca o cargo desejado e as principais tecnologias utilizadas no desenvolvimento server-side.
+
+* **Crescimento da Rede:** [6 conexões apenas.]
+
+* **Atividade e Engajamento:** [Uma/Duas vezes por semana .]
 
 
 ## 2.3 Outras Redes e Planejamento
@@ -217,7 +234,32 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 
   * Manter um GitHub e Linkedin ativos, publicando projetos e documentando os principais trabalhos realizados, assim atualizando parte por parte da minha jornada profissional.
 
+# Capítulo Individual — Nicollas Guedes
 
+* **Instagram:** [Não tem relação a carreira de tecnlogia.]
+
+* **Outras Redes Profissionais:** [---- .]
+
+* **Plano de Carreira:**
+
+  * **Curto prazo (6 a 12 meses):** Consolidar e aprofundar os conhecimentos em desenvolvimento Back-end, focando em Python, Node.js, TypeScript, criação/integração de APIs RESTful e boas práticas de modelagem de bancos de dados relacionais.
+
+  * **Médio prazo (1 a 3 anos):** Evoluir profissionalmente para a posição de Desenvolvedor Back-end Pleno, ampliando o domínio em arquitetura de microsserviços, mensageria, segurança de APIs e infraestrutura em Cloud.
+
+  * **Longo prazo (3 a 5 anos ou mais):** Tornar-se um especialista em Engenharia de Software / Back-end ou atuar como Desenvolvedor Full Stack com forte viés em arquitetura de sistemas, buscando oportunidades de trabalho no mercado internacional.
+
+* **PDI (Plano de Desenvolvimento Individual):**
+
+  * Aprofundar os estudos em Python, Node.js e TypeScript através do desenvolvimento de APIs e microsserviços práticos nos próximos 6 meses.
+
+  * Dominar conceitos de modelagem e otimização de bancos de dados SQL (MySQL/PostgreSQL) e introduzir conceitos de NoSQL (como MongoDB ou Redis) ao longo dos próximos 12 meses.
+
+  * Praticar a conteinerização de aplicações utilizando Docker e realizar deploy de APIs em ambientes de nuvem como AWS ou Azure.
+
+  * Melhorar o nível de inglês, atualmente em nível intermediário B2, visando a leitura fluente de documentações técnicas,entender reuniões de trabalho e futuras oportunidades no mercado internacional.
+
+  * Manter a frequência de publicações no GitHub, registrando projetos pessoais, documentando repositórios e estruturando arquivos README claros.
+    
 ## 2.4 Feedback por Pares
 
 * **O que o grupo avaliou sobre Caio Dal Pizzol Fonseca:**
@@ -237,6 +279,16 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
   * O Plano de Carreira se mostra algo bem conexo com a realidade atual, os cursos requerentes para a área desejada fazem sentido e mostra onde é o foco principal.
  
   * O PDI mantém relação com a área escolhida
+
+* **O que o grupo avaliou sobre Nicollas Guedes:**
+
+  * A equipe identificou um direcionamento claro no perfil, destacando a escolha consciente pelo Back-end e o alinhamento com os requisitos iniciais de desenvolvimento de software.
+
+  * As metas estipuladas no Plano de Carreira foram consideradas realistas e bem divididas, mostrando uma progressão coerente desde a base de programação até tópicos mais avançados de infraestrutura.
+
+  * O PDI reflete de forma objetiva as necessidades reais para a área, cobrindo pontos fundamentais como lógica de servidor, persistência de dados, DevOps básico e o idioma inglês.
+
+* **Comentários de melhoria contínua:** Como sugestões de evolução, o grupo recomenda desenvolver projetos que explorem a comunicação entre serviços, implementar rotinas de testes unitários para garantir a qualidade do código e movimentar as redes profissionais com mais consistência.
 
 ---
 
