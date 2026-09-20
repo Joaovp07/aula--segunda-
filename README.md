@@ -150,6 +150,14 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 - 02 Repositórios Públicos: [3 repositórios públicos: ProjetoSql, Gravity-Falls-Python e aula–segunda-.]
 
 - 03 Evolução de Seguidores: [19 seguidores, nem todos que estão na turma seguiram.]
+  
+  # Capítulo Individual — João Vitor Pires Ribeiro
+
+* **01. Identificação do Perfil:[Joaovp07]
+
+* **02. Repositórios Públicos: [WorkFinder/Jogo-Mario-V1, entre outros projetos.]
+
+* **03. Evolução de Seguidores: [17 seguidores, nem todos que estao na turma seguiram!.]
 
 ## 2.2 Análise do LinkedIn
 
@@ -192,6 +200,17 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 - Crescimento da Rede: 57 conexões. A rede profissional ainda está em fase de crescimento, com espaço para ampliar conexões com profissionais, estudantes e empresas da área de tecnologia e dados.
 
 - Atividade e Engajamento: Aproximadamente 1 a 2 publicações por semana. A frequência demonstra uma presença ativa na plataforma, principalmente para compartilhar evolução nos estudos, projetos e desenvolvimento profissional.
+
+# Capítulo Individual - João Vitor Pires Ribeiro
+
+- Cargo Alvo e Stack: Estagiário em Tecnologia / Desenvolvedor Full Stack Júnior. Stack principal: TypeScript, JavaScript, React, Node.js, Python, SQL, além de habilidades de prototipagem de interfaces utilizando Figma.
+
+- Headline Profissional: Estudante de ADS | Desenvolvedor Full-Stack em Formação (React, Node.js, TypeScript) | Foco em Automação, APIs REST e IA.
+
+- Crescimento da Rede: Estratégia de expansão de conexões focada em interagir com *Tech Recruiters*, desenvolvedores Full Stack e comunidades de inteligência artificial aplicada ao desenvolvimento.
+
+- Atividade e Engajamento: Engajamento voltado para o compartilhamento da evolução acadêmica e prática. Publicações com foco na criação de interfaces (como wireframes e designs de e-commerce) e no desenvolvimento de protótipos integrados com IA.
+
 
 ## 2.3 Outras Redes e Planejamento
 
@@ -276,6 +295,27 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
   * Melhorar o nível de inglês, atualmente em nível intermediário B2, visando a leitura fluente de documentações técnicas,entender reuniões de trabalho e futuras oportunidades no mercado internacional.
 
   * Manter a frequência de publicações no GitHub, registrando projetos pessoais, documentando repositórios e estruturando arquivos README claros.
+ 
+
+ # Capítulo Individual — João Vitor Pires Ribeiro
+
+* **Instagram:** [Não tem relação a carreira de tecnlogia.]
+
+* **Outras Redes Profissionais:** [---- .]
+
+* **Plano de Carreira:**
+
+  * **Curto prazo (6 a 12 meses):** Conquistar a primeira oportunidade formal como Desenvolvedor ou Estagiário. Continuar os estudos diários em React e Node.js, e realizar entregas de projetos freelance para ganhar vivência comercial.
+
+  * **Médio prazo (1 a 3 anos):** Atingir o nível Pleno como Desenvolvedor Full Stack. Dominar a integração de APIs complexas e o ecossistema de bancos de dados (relacionais e não-relacionais), ampliando as soluções em IA.
+
+  * **Longo prazo (3 a 5 anos ou mais):** Consolidar-se como Especialista ou Arquiteto de Software, liderando a criação de plataformas SaaS e desenhando arquiteturas altamente escaláveis.
+
+* **PDI (Plano de Desenvolvimento Individual):**
+
+  **Mês 1-2:** Aprofundar os conhecimentos em TypeScript e integração de APIs REST aplicadas ao ecossistema React/Next.js.
+  * **Mês 3-4:** Evoluir os conhecimentos de Back-end com Node.js e Python, construindo microsserviços do zero.
+  * **Mês 5-6:** Explorar a fundo bibliotecas de IA (como APIs de modelos generativos) para automatizar processos dentro de aplicações web.
     
 ## 2.4 Feedback por Pares
 
