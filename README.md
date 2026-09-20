@@ -183,6 +183,15 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 
 * **Atividade e Engajamento:** [Uma/Duas vezes por semana .]
 
+# Capítulo Individual - Bruno Rodrigues
+
+- Cargo Alvo e Stack: O objetivo profissional é atuar na área de Dados e Tecnologia, com foco na evolução para Engenharia de Dados. Atualmente, a stack em desenvolvimento é composta por Python, SQL, Excel e Git/GitHub, além de conhecimentos em desenvolvimento de sistemas e interesse em Java. Também demonstra interesse pela aplicação de tecnologia e dados no setor financeiro
+
+- Headline Profissional: Analista de Dados em formação | Python | SQL | Excel | Git/GitHub | Tecnologia e Dados. A headline destaca o direcionamento profissional para a área de dados e as principais tecnologias que estão sendo desenvolvidas.
+
+- Crescimento da Rede: 57 conexões. A rede profissional ainda está em fase de crescimento, com espaço para ampliar conexões com profissionais, estudantes e empresas da área de tecnologia e dados.
+
+- Atividade e Engajamento: Aproximadamente 1 a 2 publicações por semana. A frequência demonstra uma presença ativa na plataforma, principalmente para compartilhar evolução nos estudos, projetos e desenvolvimento profissional.
 
 ## 2.3 Outras Redes e Planejamento
 
