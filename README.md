@@ -127,23 +127,43 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 
 * **03. Evolução de Seguidores: [19 seguidores, nem todos que estao na turma seguiram!.]
 
-- 04. Identificação do Perfil: [Nicollas Guedes.]
+# Capítulo Individual — Denner de Paula Coutinho
 
-- 05. Repositórios Públicos: [Apenas esse repositório.]
+## 2.1 Análise do GitHub
 
-- 06. Evolução de Seguidores:** [6 seguidores, nem todos que estao na turma seguiram!.]
+* **01. Identificação do Perfil:[Denner Coutinho.]
+
+* **02. Repositórios Públicos: [Recyclo/ Este repositório.]
+
+* **03. Evolução de Seguidores: [18 seguidores, nem todos que estao na turma seguiram!.]
+
 
 ## 2.2 Análise do LinkedIn
 
+# Capítulo Individual — Caio Dal Pizzol Fonseca
+
 * **Cargo Alvo e Stack:** O objetivo profissional é atuar como Desenvolvedor Front-end Júnior. A principal stack é formada por React, Next.js, TypeScript e JavaScript, além de HTML, CSS, Git e integração com APIs. Também possui conhecimentos básicos em Python e MySQL e conhecimentos introdutórios em Azure e AWS.
 
-* **Headline Profissional:** Desenvolvedor Front-end Júnior | React | Next.js | TypeScript | JavaScript. A headline destaca o cargo desejado e as principais tecnologias utilizadas profissionalmente.
+* **Headline Profissional:** Desenvolvedor Front-end Júnior | React | Next.js | TypeScript | JavaScript. A headline destaca o cargo desejado e as principais tecnologias utilizadas 
 
 * **Crescimento da Rede:** [27 conexões apenas.]
 
 * **Atividade e Engajamento:** [Uma/Duas vezes por semana .]
 
+  # Capítulo Individual — Denner de Paula Coutinho
+
+  * **Cargo Alvo e Stack:** O objetivo profissional é atuar como Analista de Qualidade Jr. (QA). O combo mais pedido no mercado é testes manuais + Jira + SQL + Selenium/Playwright (com JavaScript ou Python) + Postman.
+
+* **Headline Profissional:** Agente de Prevenção à Fraudes Jr. | Estudante de ADS | Tecnologia | Análise de Dados | Documentoscopia | Grafoscopia
+
+* **Crescimento da Rede:** [31 conexões.]
+
+* **Atividade e Engajamento:** [Duas/Três vees por semana .]
+
+
 ## 2.3 Outras Redes e Planejamento
+
+# Capítulo Individual — Caio Dal Pizzol Fonseca
 
 * **Instagram:** [Não tem relação a carreira de tecnlogia.]
 
@@ -171,6 +191,35 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 
   * Manter um GitHub ativo, publicando projetos e documentando os principais trabalhos realizados.
 
+# Capítulo Individual — Denner de Paula Coutinho
+
+* **Instagram:** [Não tem relação a carreira de tecnlogia.]
+
+* **Outras Redes Profissionais:** [Dev-to (Denner Coutinho).]
+
+* **Plano de Carreira:**
+
+  * **Curto prazo (6 a 12 meses):** Aprofundar os conhecimentos em desenvolvimento Front-end, Back-end, Java, realizar curso especializado na AlgaWorks.
+
+  * **Médio prazo (1 a 3 anos):** Alcançar a realização desejada de Analista de Qualidade Jr. (QA), realizar pós gradução focada na área (Especialização em Qualidade e Engenharia de Software — Univali (EAD)
+
+  * **Longo prazo (3 a 5 anos ou mais):** Tornar-se um profissional com maior aprendizado, estando em um cargo de Pleno/Sênior - buscando me especializar em outras áreas como Banco de Dados.
+
+* **PDI (Plano de Desenvolvimento Individual):**
+
+  * Realizar cursos de JAVA, CSS e Python por meio de projetos práticos ao longo dos próximos 6 meses.
+
+  * Desenvolver conhecimentos em Cloud, Testes de API, Automação e Gestão de Defeitos nos próximos 12 meses.
+
+  * Evoluir os conhecimentos em SQL e bancos de dados.
+
+  * Aprofundar conhecimentos especializados na área de QA.
+
+  * Começar a estudar inglês, atualmente em nível A1, visando oportunidades profissionais futuras no mercado internacional.
+
+  * Manter um GitHub e Linkedin ativos, publicando projetos e documentando os principais trabalhos realizados, assim atualizando parte por parte da minha jornada profissional.
+
+
 ## 2.4 Feedback por Pares
 
 * **O que o grupo avaliou sobre Caio Dal Pizzol Fonseca:**
@@ -182,6 +231,14 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
   * O PDI está relacionado às competências exigidas pelo mercado de Engenharia de Software, principalmente desenvolvimento, APIs, bancos de dados, Cloud e inglês.
 
 * **Comentários de melhoria contínua:** Como pontos de melhoria, o grupo considera importante ampliar a experiência em Back-end, aprofundar os conhecimentos em arquitetura de software e Cloud e manter uma presença mais ativa nas plataformas profissionais.
+
+* * **O que o grupo avaliou sobre Denner de Paula Coutinho:**
+ 
+  * O perfil profissional apresenta conhecimento em outras áreas de tecnologia, fala sobre duas áreas, mas ainda não consta experiência na área, mas segue um bom caminho de migração.
+ 
+  * O Plano de Carreira se mostra algo bem conexo com a realidade atual, os cursos requerentes para a área desejada fazem sentido e mostra onde é o foco principal.
+ 
+  * O PDI mantém relação com a área escolhida
 
 ---
 
