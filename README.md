@@ -370,7 +370,15 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 
 * **Comentários de melhoria contínua:** Como sugestões de evolução, o grupo recomenda desenvolver projetos que explorem a comunicação entre serviços, implementar rotinas de testes unitários para garantir a qualidade do código e movimentar as redes profissionais com mais consistência.
 
----
+- O que o grupo avaliou sobre Bruno Rodrigues:
+
+- O perfil profissional apresenta alinhamento entre seus estudos, interesses e objetivo de carreira, com foco em Dados e Tecnologia, principalmente Python, SQL, Excel e análise de dados.
+
+- O Plano de Carreira apresenta uma evolução gradual, partindo do desenvolvimento de conhecimentos em análise de dados e avançando para Engenharia de Dados, com interesse no setor financeiro e no mercado internacional.
+
+O PDI está relacionado às competências necessárias para a área de Dados, incluindo Python, SQL, NumPy, Pandas, bancos de dados, projetos práticos e inglês.
+
+Comentários de melhoria contínua: Como pontos de melhoria, o grupo considera importante ampliar a experiência prática por meio de projetos, aprofundar conhecimentos em Pandas, bancos de dados e Engenharia de Dados, além de manter o GitHub e o LinkedIn ativos para fortalecer o portfólio e a presença profissional.
 
 ## 3. Conclusão — Análise de Gaps e Plano de Ação
 
