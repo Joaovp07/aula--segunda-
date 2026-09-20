@@ -143,6 +143,16 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 
 * **03. Evolução de Seguidores:** [6 seguidores, nem todos que estao na turma seguiram!.]
 
+# Capitulo Individual - Bruno Rodrigues
+
+Capítulo Individual — Bruno Rodrigues
+
+- 01 Identificação do Perfil: [Bruno Rodrigues — dev-rodrigues-bruno.]
+
+- 02 Repositórios Públicos: [3 repositórios públicos: ProjetoSql, Gravity-Falls-Python e aula–segunda-.]
+
+- 03 Evolução de Seguidores: [19 seguidores, nem todos que estão na turma seguiram.]
+
 ## 2.2 Análise do LinkedIn
 
 # Capítulo Individual — Caio Dal Pizzol Fonseca
