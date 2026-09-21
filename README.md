@@ -382,14 +382,44 @@ Comentários de melhoria contínua: Como pontos de melhoria, o grupo considera i
 
 ## 3. Conclusão — Análise de Gaps e Plano de Ação
 
-### 3.1 Análise Conjunta
-[Síntese dos Planos de Carreira e PDIs de todos os integrantes do grupo. O que o grupo tem em comum?]
+3.1 Análise Conjunta
 
-### 3.2 Comparação com o Mercado
-[Cruzamento direto dos planos individuais com as vagas e exigências mapeadas na Introdução.]
+A análise dos cinco integrantes demonstra que o grupo possui diferentes objetivos dentro da área de Tecnologia, abrangendo Front-end, Back-end, Full Stack, QA e Dados/Engenharia de Dados. Apesar das diferentes especializações, existem competências em comum que são importantes para todos, como lógica de programação, Git e GitHub, bancos de dados, APIs, desenvolvimento de projetos práticos e inglês técnico.
 
-### 3.3 Identificação de Gaps
-[Lacunas entre a situação atual dos alunos e as exigências do mercado para as vagas alvo.]
+Os Planos de Carreira apresentam uma evolução gradual, partindo do fortalecimento dos conhecimentos básicos e da criação de projetos até a busca por posições de maior responsabilidade e especialização. Também existe um objetivo comum de fortalecer o portfólio e adquirir experiência prática para aumentar a preparação para o mercado.
+
+Os PDIs mostram que o grupo reconhece a necessidade de transformar conhecimentos teóricos em prática. Dessa forma, os principais focos são o desenvolvimento de projetos, aprimoramento das tecnologias específicas de cada área, organização do GitHub e evolução das habilidades profissionais.
+
+3.2 Comparação com o Mercado
+
+A comparação entre os objetivos dos integrantes e as vagas analisadas demonstra que as tecnologias estudadas pelo grupo estão relacionadas às necessidades observadas no mercado de Engenharia de Software.
+
+No Front-end, as tecnologias estudadas por Caio, como React, Next.js e TypeScript, aparecem diretamente nas vagas analisadas, especialmente em empresas como BTG Pactual, UOL EdTech e PagBank.
+
+No Back-end, o plano de Nicollas está relacionado a tecnologias presentes nas vagas, como Python, Node.js, APIs, SQL, bancos de dados, Cloud e microsserviços. A evolução para Docker e Cloud também acompanha requisitos observados em posições de maior complexidade.
+
+Para QA, o plano de Denner contempla testes de software, testes de API, automação, SQL e gestão de defeitos, competências relacionadas à qualidade e ao desenvolvimento de sistemas.
+
+No perfil Full Stack, João possui objetivos relacionados a React, Node.js, TypeScript, APIs, bancos de dados e IA, permitindo desenvolver competências que abrangem diferentes partes de uma aplicação.
+
+Já Bruno apresenta direcionamento para Dados e Engenharia de Dados, utilizando Python, SQL, Excel, NumPy e Pandas. Essas competências possuem relação com a utilização de Python, bancos de dados e pensamento analítico observados nas oportunidades de tecnologia analisadas.
+
+Além das competências técnicas, o levantamento demonstra a importância de inglês, comunicação, colaboração, adaptabilidade, Git/GitHub, Cloud e capacidade de trabalhar com projetos reais. Portanto, o desenvolvimento do grupo deve combinar conhecimentos técnicos com competências profissionais e portfólio.
+
+3.3 Identificação de Gaps
+
+A análise dos perfis demonstra que os principais gaps do grupo estão relacionados principalmente à experiência prática, aprofundamento técnico e preparação para processos seletivos.
+
+* Experiência profissional: a maioria dos integrantes ainda está em fase de formação e possui pouca experiência diretamente relacionada aos cargos pretendidos. O desenvolvimento de projetos práticos e colaborativos pode ajudar a demonstrar as competências adquiridas.
+* Portfólio e GitHub: alguns integrantes possuem poucos repositórios ou baixa atividade. É necessário melhorar a organização dos projetos, criar README, documentar tecnologias utilizadas e manter os repositórios atualizados.
+* Aprofundamento técnico: existem conhecimentos iniciais em diversas tecnologias, mas ainda é necessário aprofundar as ferramentas principais de cada área. O objetivo deve ser priorizar uma stack principal antes de expandir para novas tecnologias.
+* Cloud e arquitetura: conhecimentos de Cloud, microsserviços, arquitetura e deploy ainda precisam ser desenvolvidos por parte do grupo, principalmente para acompanhar requisitos encontrados em vagas de maior complexidade.
+* Testes e qualidade: existe necessidade de ampliar conhecimentos em testes automatizados, testes de API, integração e práticas de qualidade de software.
+* Dados e bancos de dados: SQL e bancos de dados são competências relevantes para diferentes áreas do grupo, sendo necessário avançar de consultas básicas para modelagem, otimização e utilização prática.
+* Inglês: os níveis variam entre os integrantes. O inglês é especialmente relevante para documentação técnica, processos seletivos e oportunidades internacionais, sendo necessário manter uma evolução contínua.
+* Presença profissional: alguns integrantes ainda possuem redes profissionais pouco desenvolvidas. A atualização do LinkedIn, publicação de projetos e crescimento da rede de contatos são pontos importantes para aumentar a exposição profissional.
+
+Dessa forma, os principais gaps identificados não estão apenas relacionados à quantidade de tecnologias conhecidas, mas principalmente à capacidade de demonstrar conhecimento por meio de projetos reais, organizar um portfólio profissional e desenvolver as competências exigidas pelas vagas de interesse.
 
 ### 3.4 Plano de Ação
 
