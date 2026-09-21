@@ -278,7 +278,7 @@ A combinação de arquitetura de eventos, múltiplos serviços AWS gerenciados (
 
 * **Plano de Carreira:**
 
-  * **Curto prazo (6 a 12 meses):** Consolidar e aprofundar os conhecimentos em desenvolvimento Back-end, focando em Python, Node.js, TypeScript, criação/integração de APIs RESTful e boas práticas de modelagem de bancos de dados relacionais.
+  * **Curto prazo (6 a 12 meses):** Consolidar e aprofundar os conhecimentos em desenvolvimento Back-end, focando em Python, Node.js, TypeScript, criação/integração de APIs RESTful e boas práticas de modelagem de bancos de dados relacionais
 
   * **Médio prazo (1 a 3 anos):** Evoluir profissionalmente para a posição de Desenvolvedor Back-end Pleno, ampliando o domínio em arquitetura de microsserviços, mensageria, segurança de APIs e infraestrutura em Cloud.
 
