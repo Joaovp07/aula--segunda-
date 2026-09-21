@@ -393,30 +393,139 @@ Comentários de melhoria contínua: Como pontos de melhoria, o grupo considera i
 
 ### 3.4 Plano de Ação
 
-O plano de ação considera a rotina dos integrantes, que conciliam trabalho, faculdade, longos deslocamentos e vida pessoal. Por isso, as atividades serão concentradas principalmente nas noites de quarta e sexta-feira, evitando sobrecarga nos dias de aula. Todo o aprendizado complementar será realizado por meio de **recursos gratuitos disponíveis na internet e no YouTube**.
+O plano de ação foi elaborado considerando os diferentes objetivos profissionais dos integrantes, suas competências atuais e os principais gaps identificados nas análises individuais. Apesar de todos estarem cursando a área de Tecnologia, os objetivos são diferentes: Front-end, QA, Back-end, Full Stack e Dados/Engenharia de Dados.
 
-- Segunda, terça e quinta-feira: Priorizar as aulas da faculdade e os conteúdos de Design Profissional, Banco de Dados e Algoritmos. Como o deslocamento é longo e a chegada em casa ocorre tarde, não haverá obrigação de estudos adicionais nesses dias.
-- Quarta-feira: Reservar aproximadamente 1 hora à noite para estudos de programação, utilizando cursos gratuitos no YouTube, com foco inicialmente em Java e lógica de programação.
-- Sexta-feira: Reservar aproximadamente 1 hora à noite para prática e desenvolvimento dos projetos, utilizando GitHub para versionamento e materiais gratuitos encontrados na internet para consulta e resolução de dúvidas.
-- Sábado: Participar da aula de Front End e, após a aula, priorizar descanso, família, amigos e hobbies. Os conteúdos de HTML e CSS poderão ser revisados durante a própria atividade da disciplina.
-- Domingo: Manter como principal dia de descanso, realizando estudos somente quando houver necessidade acadêmica ou alguma etapa importante dos projetos.
+Por esse motivo, o grupo não seguirá uma única trilha de estudos. Será adotada uma base comum de conhecimentos, complementada por trilhas individuais de acordo com o objetivo de cada integrante. Como todos conciliam faculdade, trabalho e vida pessoal, o plano prioriza uma carga de estudos complementar realista, evitando sobrecarga.
 
-**Ferramentas e fontes de aprendizado:
+Organização da rotina
 
-- Java: cursos gratuitos no YouTube e documentação oficial da linguagem.
-- SQL e Banco de Dados: conteúdos gratuitos no YouTube, documentação e materiais disponíveis na internet.
-- Git e GitHub: tutoriais gratuitos no YouTube e documentação oficial do GitHub.
-- Spring Boot: cursos e projetos práticos gratuitos no YouTube e documentação oficial do Spring.
-- HTML e CSS: conteúdos da própria faculdade, complementados por tutoriais gratuitos no YouTube.
-- Testes automatizados e CI/CD: materiais gratuitos no YouTube e documentações oficiais das ferramentas utilizadas.
+* Segunda, terça e quinta-feira: Priorizar faculdade, trabalho e atividades acadêmicas. Como os integrantes possuem deslocamentos e chegam tarde em casa, não serão considerados dias obrigatórios para estudos complementares.
+* Quarta-feira: Aproximadamente 1 hora de estudo individual, concentrada na principal tecnologia relacionada ao objetivo profissional de cada integrante.
+* Sexta-feira: Aproximadamente 1 hora para prática, desenvolvimento de projetos, exercícios ou atualização do GitHub.
+* Sábado: Priorizar atividades da faculdade e, quando houver disponibilidade, utilizar parte do dia para projetos ou revisão.
+* Domingo: Principalmente descanso, família e vida pessoal, utilizando o dia para estudos somente quando houver alguma demanda acadêmica ou etapa importante de projeto.
 
-- Metas para os próximos 6 a 12 meses:
+Dessa forma, o grupo terá aproximadamente 2 horas semanais de estudos complementares obrigatórios, podendo cada integrante aumentar essa carga de acordo com sua disponibilidade individual.
 
-- Desenvolver 2 projetos práticos utilizando os conhecimentos adquiridos.
-- Manter um GitHub organizado, com README e documentação básica dos projetos.
-- Fortalecer Java, SQL, Git, lógica de programação, HTML e CSS.
-- Iniciar estudos de Spring Boot, testes automatizados e CI/CD após consolidar os fundamentos.
-- Participar de pelo menos 1 projeto colaborativo.
-- Avaliar o progresso a cada 3 meses, ajustando as metas de acordo com a rotina de faculdade e trabalho.
+Base de conhecimentos compartilhada
 
-O plano busca garantir uma evolução contínua e sustentável, utilizando recursos 100% gratuitos, sem comprometer o desempenho acadêmico, o trabalho e os momentos de lazer dos integrantes.
+Durante os próximos 6 a 12 meses, todos os integrantes deverão fortalecer conhecimentos que são úteis independentemente da área escolhida:
+
+* Git e GitHub: versionamento, branches, commits e organização de repositórios.
+* SQL e bancos de dados: consultas, relacionamentos, modelagem e operações básicas.
+* Lógica de programação: estruturas condicionais, repetição, funções e resolução de problemas.
+* Inglês técnico: leitura de documentação, termos utilizados na área e comunicação profissional.
+* Portfólio: organização dos projetos, README e documentação básica.
+* IA: utilização consciente de ferramentas de IA como apoio ao desenvolvimento e aprendizado.
+
+Trilhas individuais
+
+Bruno Rodrigues — Dados e Engenharia de Dados
+
+* Finalizar os estudos atuais de NumPy e avançar para Pandas.
+* Desenvolver pelo menos 3 projetos de análise de dados utilizando Python, SQL e Excel em até 12 meses.
+* Desenvolver pelo menos 1 projeto com banco de dados e SQL avançado.
+* Manter pelo menos 1 publicação de projeto por trimestre no GitHub.
+* Evoluir o inglês de B1 para B2 gradualmente.
+* Após consolidar Python e análise de dados, iniciar estudos relacionados à Engenharia de Dados.
+
+Caio Dal Pizzol Fonseca — Front-end
+
+* Consolidar React, Next.js e TypeScript.
+* Desenvolver pelo menos 2 projetos Front-end em até 12 meses.
+* Praticar consumo de APIs e integração com Back-end.
+* Aprofundar conhecimentos em Git, bancos de dados e fundamentos de Cloud.
+* Evoluir gradualmente para conhecimentos de Back-end visando uma formação Full Stack.
+
+Denner de Paula Coutinho — QA
+
+* Desenvolver conhecimentos em testes de software, testes de API e gestão de defeitos.
+* Aprofundar SQL e conhecimentos de bancos de dados.
+* Estudar automação de testes utilizando ferramentas adequadas à área.
+* Desenvolver pelo menos 1 projeto prático de testes em até 12 meses.
+* Fortalecer GitHub e LinkedIn, documentando sua evolução profissional.
+* Iniciar o estudo de inglês, buscando ampliar sua capacidade de acesso a conteúdos e oportunidades internacionais.
+
+Nicollas Guedes — Back-end
+
+* Consolidar Python, Node.js, TypeScript e APIs RESTful.
+* Desenvolver pelo menos 2 APIs práticas em até 12 meses.
+* Aprofundar conhecimentos em MySQL/PostgreSQL e posteriormente introduzir conceitos de NoSQL.
+* Estudar Docker e realizar pelo menos 1 deploy de uma aplicação em ambiente de Cloud.
+* Desenvolver conhecimentos de microsserviços, testes e arquitetura de software de forma gradual.
+* Evoluir o inglês de acordo com as necessidades de comunicação técnica e oportunidades internacionais.
+
+João Vitor Pires Ribeiro — Full Stack
+
+* Consolidar React, TypeScript e Node.js.
+* Desenvolver pelo menos 2 projetos Full Stack em até 12 meses.
+* Praticar integração entre Front-end, Back-end e banco de dados.
+* Aprofundar conhecimentos em APIs e, posteriormente, aplicações envolvendo IA.
+* Buscar experiências práticas por meio de projetos colaborativos ou freelance quando houver disponibilidade.
+* Organizar o GitHub como portfólio profissional.
+
+Projeto colaborativo do grupo
+
+Como forma de unir as diferentes especializações, o grupo poderá desenvolver um único projeto colaborativo de software, dividido de acordo com as competências de cada integrante.
+
+A divisão poderá ocorrer da seguinte forma:
+
+* Caio: desenvolvimento da interface Front-end.
+* Nicollas: desenvolvimento do Back-end e APIs.
+* Denner: planejamento e execução dos testes e controle de qualidade.
+* Bruno: estruturação do banco de dados, análise de dados e criação de indicadores.
+* João: integração entre Front-end e Back-end, funcionalidades Full Stack e apoio na integração de IA.
+
+O projeto deverá utilizar GitHub para versionamento e colaboração, permitindo que todos tenham uma experiência próxima à dinâmica encontrada em equipes de desenvolvimento.
+
+Cronograma de 12 meses
+
+Meses 1–3 — Fundamentação
+
+* Reforçar lógica de programação, Git, GitHub e SQL.
+* Cada integrante iniciar ou consolidar sua principal tecnologia.
+* Organizar os repositórios existentes.
+* Definir o projeto colaborativo e suas responsabilidades.
+
+Meses 4–6 — Prática
+
+* Desenvolver projetos individuais.
+* Iniciar o desenvolvimento do projeto colaborativo.
+* Praticar APIs, bancos de dados e testes.
+* Publicar os primeiros resultados no GitHub.
+
+Meses 7–9 — Aprofundamento
+
+* Introduzir conhecimentos específicos de cada área.
+* Bruno avançar para Pandas e conceitos de Engenharia de Dados.
+* Caio aprofundar Back-end e integração de APIs.
+* Denner avançar em automação de testes.
+* Nicollas estudar Docker, Cloud e arquitetura.
+* João aprofundar integrações Full Stack e IA.
+
+Meses 10–12 — Portfólio e mercado
+
+* Finalizar o projeto colaborativo.
+* Documentar todos os projetos no GitHub.
+* Atualizar LinkedIn e currículo.
+* Revisar os principais gaps identificados.
+* Começar a buscar oportunidades compatíveis com o nível de cada integrante.
+* Avaliar os resultados alcançados e estabelecer novas metas para o próximo ciclo.
+
+Recursos de aprendizado
+
+Todo o plano priorizará recursos gratuitos, principalmente:
+
+* YouTube;
+* Documentações oficiais;
+* GitHub;
+* Cursos e materiais gratuitos disponíveis na Internet;
+* Projetos práticos desenvolvidos pelo próprio grupo.
+
+O objetivo não é estudar o maior número possível de tecnologias, mas construir competências de forma progressiva e demonstrável, por meio de projetos, portfólio e prática.
+
+Resultado esperado
+
+Ao final dos 12 meses, espera-se que cada integrante tenha uma trilha profissional mais definida, pelo menos 2 projetos relevantes no portfólio, maior domínio das ferramentas relacionadas à sua área e um GitHub mais organizado.
+
+Além disso, o projeto colaborativo permitirá que o grupo aplique diferentes especializações em uma única solução, aproximando a experiência acadêmica de uma dinâmica real de desenvolvimento de software.
