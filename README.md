@@ -382,7 +382,7 @@ Comentários de melhoria contínua: Como pontos de melhoria, o grupo considera i
 
 ## 3. Conclusão — Análise de Gaps e Plano de Ação
 
-3.1 Análise Conjunta
+### 3.1 Análise Conjunta
 
 A análise dos cinco integrantes demonstra que o grupo possui diferentes objetivos dentro da área de Tecnologia, abrangendo Front-end, Back-end, Full Stack, QA e Dados/Engenharia de Dados. Apesar das diferentes especializações, existem competências em comum que são importantes para todos, como lógica de programação, Git e GitHub, bancos de dados, APIs, desenvolvimento de projetos práticos e inglês técnico.
 
@@ -390,7 +390,7 @@ Os Planos de Carreira apresentam uma evolução gradual, partindo do fortalecime
 
 Os PDIs mostram que o grupo reconhece a necessidade de transformar conhecimentos teóricos em prática. Dessa forma, os principais focos são o desenvolvimento de projetos, aprimoramento das tecnologias específicas de cada área, organização do GitHub e evolução das habilidades profissionais.
 
-3.2 Comparação com o Mercado
+### 3.2 Comparação com o Mercado
 
 A comparação entre os objetivos dos integrantes e as vagas analisadas demonstra que as tecnologias estudadas pelo grupo estão relacionadas às necessidades observadas no mercado de Engenharia de Software.
 
@@ -406,7 +406,7 @@ Já Bruno apresenta direcionamento para Dados e Engenharia de Dados, utilizando 
 
 Além das competências técnicas, o levantamento demonstra a importância de inglês, comunicação, colaboração, adaptabilidade, Git/GitHub, Cloud e capacidade de trabalhar com projetos reais. Portanto, o desenvolvimento do grupo deve combinar conhecimentos técnicos com competências profissionais e portfólio.
 
-3.3 Identificação de Gaps
+### 3.3 Identificação de Gaps
 
 A análise dos perfis demonstra que os principais gaps do grupo estão relacionados principalmente à experiência prática, aprofundamento técnico e preparação para processos seletivos.
 
